@@ -39,8 +39,11 @@ Hello folks, I'm a Fullstack Developer 🚀 and Computer Science student at DSCE
 🔗 To know more about me, you can check out my <a href="https://hanzalahwaheed.github.io/my-portfolio/"> **Portfolio Website** </a>
 </p>
 
-<br>
-[![GitHub Streak](https://github-readme-streak-stats-dun-ten.vercel.app?user=hanzalahwaheed&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<br><div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats-dun-ten.vercel.app?user=hanzalahwaheed&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 <br>
 
 <!--
