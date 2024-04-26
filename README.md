@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <p>
 Hello folks, I'm a Fullstack Developer 🚀 and Computer Science student at DSCE, Bangalore 📚. I'm on my journey to become a skilled Software Developer ⚙️. I'm passionate about Anime 🎮 and love building and contributing to projects. Let's connect and explore the world of technology together!
    
-🔗 To know more about me, you can check out my <a href="https://hanzalahwaheed.github.io/my-portfolio-v2/"> **Portfolio Website** </a>
+🔗 To know more about me, you can check out my <a href="https://hanzalahwaheed.me"> **Portfolio Website** </a>
 </p>
 
 ### 🛠️ Languages and Tools
