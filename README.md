@@ -53,6 +53,14 @@
 </div>
 <br>
 
+## 🐦 Latest Tweets
+
+<!-- latest-tweets-start -->
+
+Fetching latest tweets...
+
+<!-- latest-tweets-end -->
+
 <div align="center">
-  
 <p align="center">💙 If you like my projects, Give them a ⭐</p>
+</div>

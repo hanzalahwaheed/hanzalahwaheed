@@ -1,0 +1,55 @@
+name: Update README with Latest Tweets
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once every 24 hours at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Fetch Latest Tweets
+        env:
+          TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
+        run: |
+          # Fetch user info
+          curl -X GET "https://api.twitter.com/2/users/by/username/waheed_hanzalah" \
+            -H "Authorization: Bearer $TWITTER_BEARER_TOKEN" -o user.json
+          USER_ID=$(jq -r '.data.id' user.json)
+
+          if [ -z "$USER_ID" ]; then
+            echo "Error: Could not fetch user ID. Exiting."
+            exit 1
+          fi
+
+          # Fetch latest tweets
+          curl -X GET "https://api.twitter.com/2/users/$USER_ID/tweets?max_results=5" \
+            -H "Authorization: Bearer $TWITTER_BEARER_TOKEN" -o tweets.json
+
+          # Check if there are tweets
+          TWEET_COUNT=$(jq '.data | length' tweets.json)
+          if [ "$TWEET_COUNT" -eq 0 ]; then
+            echo "No tweets found for the user."
+            exit 1
+          fi
+
+          # Format tweets into markdown
+          jq -r '.data[] | "* [\(.text)](https://twitter.com/waheed_hanzalah/status/\(.id))"' tweets.json > tweets.md
+
+      - name: Update README
+        run: |
+          # Check if tweets.md is not empty before updating README
+          if [ -s tweets.md ]; then
+            sed -i '/<!-- latest-tweets-start -->/,/<!-- latest-tweets-end -->/c\<!-- latest-tweets-start -->\n'$(cat tweets.md)'\n<!-- latest-tweets-end -->' README.md
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "Update latest tweets"
+            git push
+          else
+            echo "No updates to the README as there are no latest tweets."
+          fi
