@@ -22,9 +22,9 @@
 - Aspiring to become a skilled Software Developer ⚙️
 - Enthusiastic about building and contributing to projects
 - Open to connecting and exploring the world of tech together
-- assionate about Anime and Gaming 🎮
+- Passionate about Anime and Gaming 🎮
 
-🔗 To know more about me, you can check out my <a href="https://hanzalahwaheed.me"> **Portfolio Website** </a>
+🔗 To know more about me, you can check out my <a href="https://hanzalahwaheed.me"> **Portfolio** </a>
 
 </p>
 
