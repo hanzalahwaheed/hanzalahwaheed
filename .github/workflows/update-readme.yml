@@ -44,11 +44,17 @@ jobs:
         run: |
           # Check if tweets.md is not empty before updating README
           if [ -s tweets.md ]; then
-            sed -i '/<!-- latest-tweets-start -->/,/<!-- latest-tweets-end -->/c\<!-- latest-tweets-start -->\n'$(cat tweets.md)'\n<!-- latest-tweets-end -->' README.md
+            # Replace the latest-tweets section in README.md
+            sed -i '/<!-- latest-tweets-start -->/,/<!-- latest-tweets-end -->/c\<!-- latest-tweets-start -->\n'"$(cat tweets.md)"'\n<!-- latest-tweets-end -->' README.md
+            
+            # Configure Git
             git config --global user.name "github-actions[bot]"
             git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            
+            # Commit and push changes
             git add README.md
             git commit -m "Update latest tweets"
             git push
           else
             echo "No updates to the README as there are no latest tweets."
+          fi
