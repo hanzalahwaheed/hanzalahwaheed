@@ -16,30 +16,37 @@ jobs:
         env:
           TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
         run: |
-          # Fetch user ID and latest tweets in one API call
-          http_code=$(curl -s -w "%{http_code}" -X GET "https://api.twitter.com/2/users/by/username/waheed_hanzalah?user.fields=id&expansions=pinned_tweet_id&tweet.fields=created_at" \
-            -H "Authorization: Bearer $TWITTER_BEARER_TOKEN" -o user_and_tweets.json)
+          # Create temporary directory for JSON files
+          mkdir -p tmp
 
-          # Check if the API request was successful
-          if [[ "$http_code" != "200" ]]; then
-            echo "Error: Twitter API request failed with status code $http_code. Exiting."
+          # Fetch user ID and latest tweets in one API call
+          response=$(curl -s -X GET "https://api.twitter.com/2/users/by/username/waheed_hanzalah?user.fields=id&expansions=pinned_tweet_id&tweet.fields=created_at" \
+            -H "Authorization: Bearer $TWITTER_BEARER_TOKEN")
+
+          echo "$response" > tmp/user_and_tweets.json
+
+          # Check if the response contains an error
+          if echo "$response" | jq -e '.errors' >/dev/null; then
+            echo "Error: Twitter API returned an error:"
+            echo "$response" | jq '.errors'
             exit 1
           fi
 
-          USER_ID=$(jq -r '.data.id' user_and_tweets.json)
-          if [ -z "$USER_ID" ]; then
-            echo "Error: Could not fetch user ID. Exiting."
+          USER_ID=$(echo "$response" | jq -r '.data.id')
+          if [ -z "$USER_ID" ] || [ "$USER_ID" = "null" ]; then
+            echo "Error: Could not fetch user ID. API response:"
+            echo "$response"
             exit 1
           fi
 
           # Extract tweets and format them into markdown
-          jq -r '.includes.tweets[] | "* [\(.text)](https://twitter.com/waheed_hanzalah/status/\(.id))"' user_and_tweets.json > latest_tweets.md
+          echo "$response" | jq -r '.includes.tweets[] | "* [\(.text)](https://twitter.com/waheed_hanzalah/status/\(.id))"' > tmp/latest_tweets.md
 
       - name: Update README
         run: |
-          if [ -s latest_tweets.md ]; then
+          if [ -s tmp/latest_tweets.md ]; then
             # Use awk to replace the latest-tweets section in README.md
-            awk '// {p=1; print; next} // {p=0} p {print}' latest_tweets.md README.md > README.md.tmp && mv README.md.tmp README.md
+            awk '// {p=1; print; next} // {p=0} p {print}' tmp/latest_tweets.md README.md > README.md.tmp && mv README.md.tmp README.md
 
             git config --global user.name "github-actions[bot]"
             git config --global user.email "github-actions[bot]@users.noreply.github.com"
