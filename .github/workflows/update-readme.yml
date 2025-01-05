@@ -16,42 +16,34 @@ jobs:
         env:
           TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
         run: |
-          # Fetch user info
-          curl -X GET "https://api.twitter.com/2/users/by/username/waheed_hanzalah" \
-            -H "Authorization: Bearer $TWITTER_BEARER_TOKEN" -o user.json
-          USER_ID=$(jq -r '.data.id' user.json)
+          # Fetch user ID and latest tweets in one API call
+          curl -s -w "%{http_code}" -X GET "https://api.twitter.com/2/users/by/username/waheed_hanzalah?user.fields=id&expansions=pinned_tweet_id&tweet.fields=created_at" \
+            -H "Authorization: Bearer $TWITTER_BEARER_TOKEN" -o user_and_tweets.json
 
+          # Check if the API request was successful
+          if ! grep -q 2 "$user_and_tweets.json"; then
+            echo "Error: Twitter API request failed. Exiting."
+            exit 1
+          fi
+
+          USER_ID=$(jq -r '.data.id' user_and_tweets.json)
           if [ -z "$USER_ID" ]; then
             echo "Error: Could not fetch user ID. Exiting."
             exit 1
           fi
 
-          # Fetch latest tweets
-          curl -X GET "https://api.twitter.com/2/users/$USER_ID/tweets?max_results=2" \
-            -H "Authorization: Bearer $TWITTER_BEARER_TOKEN" -o tweets.json
-
-          # Check if there are tweets
-          TWEET_COUNT=$(jq '.data | length' tweets.json)
-          if [ "$TWEET_COUNT" -eq 0 ]; then
-            echo "No tweets found for the user."
-            exit 1
-          fi
-
-          # Format tweets into markdown
-          jq -r '.data[] | "* [\(.text)](https://twitter.com/waheed_hanzalah/status/\(.id))"' tweets.json > tweets.md
+          # Extract tweets and format them into markdown
+          jq -r '.includes.tweets[] | "* [\(.text)](https://twitter.com/waheed_hanzalah/status/\(.id))"' user_and_tweets.json > latest_tweets.md
 
       - name: Update README
         run: |
-          # Check if tweets.md is not empty before updating README
-          if [ -s tweets.md ]; then
-            # Replace the latest-tweets section in README.md
-            sed -i '/<!-- latest-tweets-start -->/,/<!-- latest-tweets-end -->/c\<!-- latest-tweets-start -->\n'"$(cat tweets.md)"'\n<!-- latest-tweets-end -->' README.md
-            
-            # Configure Git
+          if [ -s latest_tweets.md ]; then
+            # Use awk to replace the latest-tweets section in README.md
+            awk '// {p=1; print; next} // {p=0} p {print}' latest_tweets.md README.md > README.md.tmp && mv README.md.tmp README.md
+
             git config --global user.name "github-actions[bot]"
             git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            
-            # Commit and push changes
+
             git add README.md
             git commit -m "Update latest tweets"
             git push
