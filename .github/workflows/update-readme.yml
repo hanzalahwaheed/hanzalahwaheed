@@ -52,4 +52,3 @@ jobs:
             git push
           else
             echo "No updates to the README as there are no latest tweets."
-          fi
