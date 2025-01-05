@@ -19,8 +19,8 @@ jobs:
           # Create temporary directory for JSON files
           mkdir -p tmp
 
-          # Fetch user ID and latest tweets in one API call
-          response=$(curl -s -X GET "https://api.twitter.com/2/users/by/username/waheed_hanzalah?user.fields=id&expansions=pinned_tweet_id&tweet.fields=created_at" \
+          # Fetch latest tweets
+          response=$(curl -s -X GET "https://api.twitter.com/2/users/waheed_hanzalah/tweets?max_results=5" \
             -H "Authorization: Bearer $TWITTER_BEARER_TOKEN")
 
           echo "$response" > tmp/user_and_tweets.json
@@ -32,25 +32,18 @@ jobs:
             exit 1
           fi
 
-          USER_ID=$(echo "$response" | jq -r '.data.id')
-          if [ -z "$USER_ID" ] || [ "$USER_ID" = "null" ]; then
-            echo "Error: Could not fetch user ID. API response:"
-            echo "$response"
-            exit 1
-          fi
-
           # Extract tweets and format them into markdown
-          echo "$response" | jq -r '.includes.tweets[] | "* [\(.text)](https://twitter.com/waheed_hanzalah/status/\(.id))"' > tmp/latest_tweets.md
+          echo "$response" | jq -r '.data[] | "* [\(.text)](https://twitter.com/waheed_hanzalah/status/\(.id))"' > tmp/latest_tweets.md
 
       - name: Update README
         run: |
           if [ -s tmp/latest_tweets.md ]; then
             # Use awk to replace the latest-tweets section in README.md
-            awk '// {p=1; print; next} // {p=0} p {print}' tmp/latest_tweets.md README.md > README.md.tmp && mv README.md.tmp README.md
+            awk '/<!-- latest-tweets-start -->/{p=1;print;print "";while(getline < "tmp/latest_tweets.md"){print}}/<!-- latest-tweets-end -->/{p=1}!p{print}' README.md > README.md.tmp && mv README.md.tmp README.md
 
             git config --global user.name "github-actions[bot]"
             git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
+            
             git add README.md
             git commit -m "Update latest tweets"
             git push
