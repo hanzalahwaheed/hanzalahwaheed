@@ -27,7 +27,7 @@ jobs:
           fi
 
           # Fetch latest tweets
-          curl -X GET "https://api.twitter.com/2/users/$USER_ID/tweets?max_results=5" \
+          curl -X GET "https://api.twitter.com/2/users/$USER_ID/tweets?max_results=2" \
             -H "Authorization: Bearer $TWITTER_BEARER_TOKEN" -o tweets.json
 
           # Check if there are tweets
