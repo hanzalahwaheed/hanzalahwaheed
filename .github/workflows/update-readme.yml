@@ -20,7 +20,7 @@ jobs:
           mkdir -p tmp
 
           # Fetch latest tweets
-          response=$(curl -s -X GET "https://api.twitter.com/2/users/waheed_hanzalah/tweets?max_results=5" \
+          response=$(curl -s -X GET "https://api.twitter.com/2/users/1394170579503046660/tweets?max_results=5" \
             -H "Authorization: Bearer $TWITTER_BEARER_TOKEN")
 
           echo "$response" > tmp/user_and_tweets.json
