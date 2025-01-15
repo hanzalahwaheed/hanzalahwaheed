@@ -41,6 +41,8 @@ jobs:
           echo "$response" | jq -r '.data[] | "* [\(.text)](https://twitter.com/waheed_hanzalah/status/\(.id))"' > tmp/latest_tweets.md
 
       - name: Update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           if [ -s tmp/latest_tweets.md ]; then
             # Use awk to replace the latest-tweets section in README.md
@@ -48,6 +50,9 @@ jobs:
 
             git config --global user.name "github-actions[bot]"
             git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            
+            # Authenticate with PAT
+            git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
             
             git add README.md
             git commit -m "Update latest tweets"
