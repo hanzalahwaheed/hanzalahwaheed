@@ -5,6 +5,9 @@ on:
     - cron: "0 0 */4 * *" # Runs every 4 days at midnight UTC
   workflow_dispatch:
 
+permissions:
+  contents: write
+  
 jobs:
   update-readme:
     runs-on: ubuntu-latest
