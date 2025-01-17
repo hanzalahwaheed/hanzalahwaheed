@@ -57,11 +57,11 @@
 
 <!-- latest-tweets-start -->
 
+* [https://t.co/PGFnRCHuNB
+checkout the updated GitHub profile ✨](https://twitter.com/waheed_hanzalah/status/1879806616226455657)
 * [manual testing 🫣 https://t.co/Y6sLbBS85n](https://twitter.com/waheed_hanzalah/status/1879740341496238343)
 * [@merishabh_singh Yes Rishab. https://t.co/z9NiV8dNJQ](https://twitter.com/waheed_hanzalah/status/1878089312677294460)
 * [PS. better code can be more "enterprise level" or more "optimised".
 
 but achieving optimised isn't easy](https://twitter.com/waheed_hanzalah/status/1875143285213425848)
 * [@AnxKhn @hackerrank @striver_79 @kirat_tw mubarak ho broski 😃](https://twitter.com/waheed_hanzalah/status/1875141106943639765)
-* [Can LLMs write better code if you keep asking them to “write better code”? https://t.co/KmGHEboTU8 #ChatGPT #TextGeneration 
-Conclusion: "In all, asking an LLM to “write code better” does indeed make the code better, depending on your definition of better."](https://twitter.com/waheed_hanzalah/status/1875140867075572117)
