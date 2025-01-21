@@ -57,11 +57,14 @@
 
 <!-- latest-tweets-start -->
 
+* [RT @sudu_cb: playjump image is LIVE for everyone
+
+Create stunning images with FLUX from @bfl_ml 
+・use Flux ultra, pro, dev and fast
+・blazin…](https://twitter.com/waheed_hanzalah/status/1881338055644389832)
+* [lofi commit message 😌
+(remove margin right) https://t.co/fw7Z70LRDE](https://twitter.com/waheed_hanzalah/status/1880233295872684264)
 * [https://t.co/PGFnRCHuNB
 checkout the updated GitHub profile ✨](https://twitter.com/waheed_hanzalah/status/1879806616226455657)
 * [manual testing 🫣 https://t.co/Y6sLbBS85n](https://twitter.com/waheed_hanzalah/status/1879740341496238343)
 * [@merishabh_singh Yes Rishab. https://t.co/z9NiV8dNJQ](https://twitter.com/waheed_hanzalah/status/1878089312677294460)
-* [PS. better code can be more "enterprise level" or more "optimised".
-
-but achieving optimised isn't easy](https://twitter.com/waheed_hanzalah/status/1875143285213425848)
-* [@AnxKhn @hackerrank @striver_79 @kirat_tw mubarak ho broski 😃](https://twitter.com/waheed_hanzalah/status/1875141106943639765)
