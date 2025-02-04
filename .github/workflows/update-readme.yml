@@ -54,6 +54,9 @@ jobs:
             # Use awk to replace the latest-tweets section in README.md
             awk '/<!-- latest-tweets-start -->/{p=1;print;print "";while(getline < "tmp/latest_tweets.md"){print}}/<!-- latest-tweets-end -->/{p=1}!p{print}' README.md > README.md.tmp && mv README.md.tmp README.md
 
+            # To format the tweet spacing correctly.
+            sed -i 's/\n/  <br>/g' tmp/latest_tweets.md
+                          
             git config --global user.name "github-actions[bot]"
             git config --global user.email "github-actions[bot]@users.noreply.github.com"
             
