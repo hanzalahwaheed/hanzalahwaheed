@@ -29,16 +29,19 @@ jobs:
           echo "$response" > tmp/user_and_tweets.json
 
           # Check if the response contains an error or is null
-          if [ -z "$response" ] || echo "$response" | jq -e '.data == null' >/dev/null; then
+          if [ -z "$response" ] || echo "$response" | jq -e '.data == null' > /dev/null; then
             echo "Error: Empty or invalid response from Twitter API"
             exit 1
           fi
 
-          if echo "$response" | jq -e '.errors' >/dev/null; then
+          if echo "$response" | jq -e '.errors' > /dev/null; then
             echo "Error: Twitter API returned an error:"
             echo "$response" | jq '.errors'
             exit 1
           fi
+
+          # Additional logging for debugging
+          echo "Twitter API response: $response"
 
           # Extract tweets and format them into markdown
           echo "$response" | jq -r '.data[] | "* [\(.text)](https://twitter.com/waheed_hanzalah/status/\(.id))"' > tmp/latest_tweets.md
