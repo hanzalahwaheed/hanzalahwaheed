@@ -57,16 +57,9 @@
 
 <!-- latest-tweets-start -->
 
-* [don't really know if I will ever be able to back to VS Code + ChatGPT combo after using Cursor/Windsurf
-
-these newer IDEs are so immersive](https://twitter.com/waheed_hanzalah/status/1883721059570163763)
+* [don't really know if I will ever be able to back to VS Code + ChatGPT combo after using Cursor/Windsurf these newer IDEs are so immersive](https://twitter.com/waheed_hanzalah/status/1883721059570163763)
 * [@AnxKhn insightful!](https://twitter.com/waheed_hanzalah/status/1883603513785385074)
 * [@anshitasaini_ @aryg18 u mean chai tea?](https://twitter.com/waheed_hanzalah/status/1881992821961585002)
 * [Obsidian + Excalidraw Plugin.
 goated note taking combo 🤌](https://twitter.com/waheed_hanzalah/status/1881992628474191898)
-* [Did you know about the waitUntil API on Vercel?🤔
-
-It’s a great way to handle async tasks like logging 📝 or database updates 📊 without delaying responses. 
-
-Perfect for background processing.⚙️
-#Nextjs #Serverless](https://twitter.com/waheed_hanzalah/status/1881516347458490794)
+* [Did you know about the waitUntil API on Vercel?🤔 It’s a great way to handle async tasks like logging 📝 or database updates 📊 without delaying responses. Perfect for background processing.⚙️ #Nextjs #Serverless](https://twitter.com/waheed_hanzalah/status/1881516347458490794)
