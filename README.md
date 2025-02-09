@@ -57,6 +57,17 @@
 
 <!-- latest-tweets-start -->
 
+* [RT @catalinmpit: I'll never understand why some developers still use JavaScript over TypeScript willingly.](https://twitter.com/waheed_hanzalah/status/1887399965950972386)
+* [🚀REST API Tip: 
+Use HTTP 202 Accepted for long-running tasks!
+✅ Request received
+⏳ Processing async
+📍 Location header for status polling
+Example:
+`202 Accepted  
+Location: /tasks/12345  
+{"message": "Check status at /tasks/12345"}`
+Avoid timeouts &amp; scale better! ⚡ #API #REST](https://twitter.com/waheed_hanzalah/status/1886986468809130150)
 * [RT @johnrushx: I've tried all (24) AI coding agents &amp; IDEs 😵‍💫
 
 [Cursor, Softgen, Windsurf, Wrapifai, Copilot, Lovable, Bolt, v0, Replit, M…](https://twitter.com/waheed_hanzalah/status/1886634333982601473)
@@ -65,7 +76,3 @@
 * [Do you know UI virtualization? 🤔 It's the secret to smooth scrolling in massive lists! Libraries like react-window &amp; @tanstack/react-virtual only render visible items, saving your browser. 🤯 
 
 #webdev #reactjs #virtualization #performance #ux](https://twitter.com/waheed_hanzalah/status/1886115923800604754)
-* [don't really know if I will ever be able to back to VS Code + ChatGPT combo after using Cursor/Windsurf
-
-these newer IDEs are so immersive](https://twitter.com/waheed_hanzalah/status/1883721059570163763)
-* [@AnxKhn insightful!](https://twitter.com/waheed_hanzalah/status/1883603513785385074)
