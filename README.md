@@ -24,7 +24,7 @@
 - Open to connecting and exploring the world of tech together
 - Passionate about Anime and Gaming 🎮
 
-🔗 To know more about me, you can check out my <a href="https://hanzalahwaheed.me"> **Portfolio** </a>
+🔗 To know more about me, you can check out my <a href="https://hanzalahwaheed.com"> **Portfolio** </a>
 
 </p>
 
