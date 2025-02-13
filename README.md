@@ -57,22 +57,11 @@
 
 <!-- latest-tweets-start -->
 
-* [RT @catalinmpit: I'll never understand why some developers still use JavaScript over TypeScript willingly.](https://twitter.com/waheed_hanzalah/status/1887399965950972386)
-* [🚀REST API Tip: 
-Use HTTP 202 Accepted for long-running tasks!
-✅ Request received
-⏳ Processing async
-📍 Location header for status polling
-Example:
-`202 Accepted  
-Location: /tasks/12345  
-{"message": "Check status at /tasks/12345"}`
-Avoid timeouts &amp; scale better! ⚡ #API #REST](https://twitter.com/waheed_hanzalah/status/1886986468809130150)
-* [RT @johnrushx: I've tried all (24) AI coding agents &amp; IDEs 😵‍💫
-
-[Cursor, Softgen, Windsurf, Wrapifai, Copilot, Lovable, Bolt, v0, Replit, M…](https://twitter.com/waheed_hanzalah/status/1886634333982601473)
-* [Typescript Folks, any extension out there that helps rendering these in a better manner?
-#typescript #vscode #javascript https://t.co/rurtnBR523](https://twitter.com/waheed_hanzalah/status/1886603562559340804)
-* [Do you know UI virtualization? 🤔 It's the secret to smooth scrolling in massive lists! Libraries like react-window &amp; @tanstack/react-virtual only render visible items, saving your browser. 🤯 
-
-#webdev #reactjs #virtualization #performance #ux](https://twitter.com/waheed_hanzalah/status/1886115923800604754)
+* [A function should do one thing—and do it perfectly. This is called the Single Responsibility Principle (SRP).](https://twitter.com/waheed_hanzalah/status/1889624797002215686)
+* [At the @deepseek_ai headquarters in Taiwan
+ 
+(all puns intended) https://t.co/djVw5F3OI8](https://twitter.com/waheed_hanzalah/status/1888951567140679689)
+* [@ayushunleashed @ReelsAiPro LFG!!!](https://twitter.com/waheed_hanzalah/status/1888531279542362119)
+* [Automated my GitHub profile to showcase my latest tweets! 🐦
+Check out the action: https://t.co/NExEEfvTMG https://t.co/HV79484373](https://twitter.com/waheed_hanzalah/status/1888531084784062825)
+* [Just updated my portfolio—check it out! 🚀 https://t.co/kvwF80uRzy](https://twitter.com/waheed_hanzalah/status/1888509809793683596)
