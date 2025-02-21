@@ -57,11 +57,7 @@
 
 <!-- latest-tweets-start -->
 
-* [A function should do one thing—and do it perfectly. This is called the Single Responsibility Principle (SRP).](https://twitter.com/waheed_hanzalah/status/1889624797002215686)
-* [At the @deepseek_ai headquarters in Taiwan
- 
-(all puns intended) https://t.co/djVw5F3OI8](https://twitter.com/waheed_hanzalah/status/1888951567140679689)
-* [@ayushunleashed @ReelsAiPro LFG!!!](https://twitter.com/waheed_hanzalah/status/1888531279542362119)
-* [Automated my GitHub profile to showcase my latest tweets! 🐦
-Check out the action: https://t.co/NExEEfvTMG https://t.co/HV79484373](https://twitter.com/waheed_hanzalah/status/1888531084784062825)
-* [Just updated my portfolio—check it out! 🚀 https://t.co/kvwF80uRzy](https://twitter.com/waheed_hanzalah/status/1888509809793683596)
+* [@ajeetunc trigger warning needed](https://twitter.com/waheed_hanzalah/status/1892638921697153484)
+* [solid, liquid, gas, topoconductor https://t.co/9WdOmbxq3d](https://twitter.com/waheed_hanzalah/status/1892283105177645484)
+* [ngl made me blush. haha. https://t.co/9oWKtu3jFH](https://twitter.com/waheed_hanzalah/status/1892169423743533518)
+* [this @Peerlist feature rocks! https://t.co/3YwNlTpjp3](https://twitter.com/waheed_hanzalah/status/1891979016434827746)
