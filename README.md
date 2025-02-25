@@ -57,7 +57,10 @@
 
 <!-- latest-tweets-start -->
 
-* [@ajeetunc trigger warning needed](https://twitter.com/waheed_hanzalah/status/1892638921697153484)
-* [solid, liquid, gas, topoconductor https://t.co/9WdOmbxq3d](https://twitter.com/waheed_hanzalah/status/1892283105177645484)
-* [ngl made me blush. haha. https://t.co/9oWKtu3jFH](https://twitter.com/waheed_hanzalah/status/1892169423743533518)
-* [this @Peerlist feature rocks! https://t.co/3YwNlTpjp3](https://twitter.com/waheed_hanzalah/status/1891979016434827746)
+* [@kamrify A lock kardo](https://twitter.com/waheed_hanzalah/status/1893939046616826207)
+* [A singleton is a glorified global variable.](https://twitter.com/waheed_hanzalah/status/1893927076173914258)
+* [@neembu_paani31 ur kidding](https://twitter.com/waheed_hanzalah/status/1893685684986052837)
+* [How do you prevent unexpected package updates? 
+Use npm install --save-exact (or -E). This flag locks dependency versions in your package.json, overriding semantic versioning. Ensure consistent builds &amp; avoid surprises. 
+#npm #dev #versioncontrol](https://twitter.com/waheed_hanzalah/status/1893685623451459851)
+* [@aidenybai my battery lasts exact 25 mins! its a win-win!](https://twitter.com/waheed_hanzalah/status/1893042651621908908)
