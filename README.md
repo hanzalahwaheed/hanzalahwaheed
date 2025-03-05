@@ -57,10 +57,10 @@
 
 <!-- latest-tweets-start -->
 
+* [how the times are changing! respect ser 🫡 https://t.co/eeMlJe3JVv](https://twitter.com/waheed_hanzalah/status/1896552549509190023)
+* [@sargampoudel so tru bhai](https://twitter.com/waheed_hanzalah/status/1896551610178052324)
+* [broken sonnet 3.7 https://t.co/WURxsNYqFq](https://twitter.com/waheed_hanzalah/status/1895921774640214450)
 * [@flavioAd deepseek lowkey built a spiderman](https://twitter.com/waheed_hanzalah/status/1894404073136308366)
 * ["let a customer report this bug"
 
 best testers out there 😃](https://twitter.com/waheed_hanzalah/status/1894403005648101400)
-* [@kamrify A lock kardo](https://twitter.com/waheed_hanzalah/status/1893939046616826207)
-* [A singleton is a glorified global variable.](https://twitter.com/waheed_hanzalah/status/1893927076173914258)
-* [@neembu_paani31 ur kidding](https://twitter.com/waheed_hanzalah/status/1893685684986052837)
