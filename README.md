@@ -57,10 +57,12 @@
 
 <!-- latest-tweets-start -->
 
-* [how the times are changing! respect ser 🫡 https://t.co/eeMlJe3JVv](https://twitter.com/waheed_hanzalah/status/1896552549509190023)
-* [@sargampoudel so tru bhai](https://twitter.com/waheed_hanzalah/status/1896551610178052324)
-* [broken sonnet 3.7 https://t.co/WURxsNYqFq](https://twitter.com/waheed_hanzalah/status/1895921774640214450)
-* [@flavioAd deepseek lowkey built a spiderman](https://twitter.com/waheed_hanzalah/status/1894404073136308366)
-* ["let a customer report this bug"
+* [At what system display scaling do UI designers work with? I know that Win11 sets it at 125% by default. What about the Mac users? Do they design their screens wrt that? 
+For me this leads to some confusion between the correct ratios to use while converting a design to code...
+#ui](https://twitter.com/waheed_hanzalah/status/1898449069149761570)
+* [RT @sushantpandey_: AI is automating everything, but still can't make payments on its own. 
 
-best testers out there 😃](https://twitter.com/waheed_hanzalah/status/1894403005648101400)
+Announcing Prava- Payments stack for AI Agents…](https://twitter.com/waheed_hanzalah/status/1898098131008426036)
+* [RT @aidenybai: vibe coding is awesome until i have to look at the code](https://twitter.com/waheed_hanzalah/status/1897922410935939351)
+* [@AnxKhn @peakbengaluru pair kaise Tod liya???](https://twitter.com/waheed_hanzalah/status/1897468154596471246)
+* [how the times are changing! respect ser 🫡 https://t.co/eeMlJe3JVv](https://twitter.com/waheed_hanzalah/status/1896552549509190023)
