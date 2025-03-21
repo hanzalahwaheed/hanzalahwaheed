@@ -57,8 +57,13 @@
 
 <!-- latest-tweets-start -->
 
+* [SEO Tip:
+Use hyphens instead of underscores in URLs!
+🔹 Google treats hyphens as separators → "machine-learning" = "machine", "learning" (better for search).
+🔹 Underscores connect words → "chat_gpt" = "chat_gpt" (one term).
+
+P.S. Not a huge ranking factor.](https://twitter.com/waheed_hanzalah/status/1902149287124877478)
 * [RT @faraazofficial: 🛡️Introducing Nayra AI: While carriers tell you to ignore calls &amp; @Truecaller sells your data to scammers, we've built…](https://twitter.com/waheed_hanzalah/status/1900134679895781665)
 * [@AnxKhn lemme finish revamping the the landing page for https://t.co/BvADmSAcdM](https://twitter.com/waheed_hanzalah/status/1899750340796227598)
 * [@sargampoudel for a junior dev ig https://t.co/60ERcSdbRH](https://twitter.com/waheed_hanzalah/status/1899558910106677744)
 * [@Amin_Ankward crazyy!](https://twitter.com/waheed_hanzalah/status/1899557790089117910)
-* [3.7 ftw man https://t.co/eewogcghBU](https://twitter.com/waheed_hanzalah/status/1899557259778121781)
