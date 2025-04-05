@@ -57,6 +57,9 @@
 
 <!-- latest-tweets-start -->
 
+* [vibe coding may be real but vibe engineering sure ain't](https://twitter.com/waheed_hanzalah/status/1907883996270440883)
+* [heavy self review in progress! https://t.co/e6o1NCkDBp](https://twitter.com/waheed_hanzalah/status/1907785198227337388)
+* [@adxtya_jha certified vibe coder here. ready to write some ugly code. 😉](https://twitter.com/waheed_hanzalah/status/1907464013639717324)
 * [RT @yourspingu: BAS KAR YAAR NHI DEKHNA MUJHE TERA GILHERI ART https://t.co/Lx33sHfElR](https://twitter.com/waheed_hanzalah/status/1905204566787834179)
 * [SEO Tip:
 Use hyphens instead of underscores in URLs!
@@ -64,6 +67,3 @@ Use hyphens instead of underscores in URLs!
 🔹 Underscores connect words → "chat_gpt" = "chat_gpt" (one term).
 
 P.S. Not a huge ranking factor.](https://twitter.com/waheed_hanzalah/status/1902149287124877478)
-* [RT @faraazofficial: 🛡️Introducing Nayra AI: While carriers tell you to ignore calls &amp; @Truecaller sells your data to scammers, we've built…](https://twitter.com/waheed_hanzalah/status/1900134679895781665)
-* [@AnxKhn lemme finish revamping the the landing page for https://t.co/BvADmSAcdM](https://twitter.com/waheed_hanzalah/status/1899750340796227598)
-* [@sargampoudel for a junior dev ig https://t.co/60ERcSdbRH](https://twitter.com/waheed_hanzalah/status/1899558910106677744)
