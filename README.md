@@ -57,8 +57,10 @@
 
 <!-- latest-tweets-start -->
 
-* [@sargampoudel as u should!](https://twitter.com/waheed_hanzalah/status/1909223929719501210)
-* [vibe coding may be real but vibe engineering sure ain't](https://twitter.com/waheed_hanzalah/status/1907883996270440883)
-* [heavy self review in progress! https://t.co/e6o1NCkDBp](https://twitter.com/waheed_hanzalah/status/1907785198227337388)
-* [@adxtya_jha certified vibe coder here. ready to write some ugly code. 😉](https://twitter.com/waheed_hanzalah/status/1907464013639717324)
-* [RT @yourspingu: BAS KAR YAAR NHI DEKHNA MUJHE TERA GILHERI ART https://t.co/Lx33sHfElR](https://twitter.com/waheed_hanzalah/status/1905204566787834179)
+* [Turbopack is so cool man. esp the err UI. 
+below is a comparison with webpack
+
+#nextjs https://t.co/0cOBUXnCEE](https://twitter.com/waheed_hanzalah/status/1911009932176134589)
+* [after using cursor for the past 6 months, i’ve switched to windsurf](https://twitter.com/waheed_hanzalah/status/1910982856933065048)
+* [@kamrify roadmaps cookin](https://twitter.com/waheed_hanzalah/status/1910297360984375616)
+* [just got to know about this react api called forwardRef to send a ref your child components. used it to keep focusing on the input tag after every rerender. https://t.co/FvWeat6rqR](https://twitter.com/waheed_hanzalah/status/1910080263138505022)
