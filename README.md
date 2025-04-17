@@ -57,10 +57,15 @@
 
 <!-- latest-tweets-start -->
 
+* [@aidenybai i set them always, never noticed a difference tho 🙄](https://twitter.com/waheed_hanzalah/status/1912189532595794376)
+* [@sargampoudel fr. just take 30 mins n learn to use a debugger ffs!](https://twitter.com/waheed_hanzalah/status/1911531185630777359)
+* [Looking for good Windsurf IDE tutorials, especially for large codebases.
+
+I just moved from Cursor and am struggling to get oriented with Windsurf' s features and navigation. Any pointers or resources?
+
+#WindsurfIDE #CodeCascade](https://twitter.com/waheed_hanzalah/status/1911530965832491345)
 * [Turbopack is so cool man. esp the err UI. 
 below is a comparison with webpack
 
 #nextjs https://t.co/0cOBUXnCEE](https://twitter.com/waheed_hanzalah/status/1911009932176134589)
 * [after using cursor for the past 6 months, i’ve switched to windsurf](https://twitter.com/waheed_hanzalah/status/1910982856933065048)
-* [@kamrify roadmaps cookin](https://twitter.com/waheed_hanzalah/status/1910297360984375616)
-* [just got to know about this react api called forwardRef to send a ref your child components. used it to keep focusing on the input tag after every rerender. https://t.co/FvWeat6rqR](https://twitter.com/waheed_hanzalah/status/1910080263138505022)
