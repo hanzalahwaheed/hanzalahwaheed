@@ -57,6 +57,8 @@
 
 <!-- latest-tweets-start -->
 
+* [@ankit1478 @dhrxvtwts gta 6 release date](https://twitter.com/waheed_hanzalah/status/1920389160931623141)
+* [RT @cursor_ai: Cursor is now free for students. Enjoy!](https://twitter.com/waheed_hanzalah/status/1920168848650809843)
 * [@aidenybai i set them always, never noticed a difference tho 🙄](https://twitter.com/waheed_hanzalah/status/1912189532595794376)
 * [@sargampoudel fr. just take 30 mins n learn to use a debugger ffs!](https://twitter.com/waheed_hanzalah/status/1911531185630777359)
 * [Looking for good Windsurf IDE tutorials, especially for large codebases.
@@ -64,8 +66,3 @@
 I just moved from Cursor and am struggling to get oriented with Windsurf' s features and navigation. Any pointers or resources?
 
 #WindsurfIDE #CodeCascade](https://twitter.com/waheed_hanzalah/status/1911530965832491345)
-* [Turbopack is so cool man. esp the err UI. 
-below is a comparison with webpack
-
-#nextjs https://t.co/0cOBUXnCEE](https://twitter.com/waheed_hanzalah/status/1911009932176134589)
-* [after using cursor for the past 6 months, i’ve switched to windsurf](https://twitter.com/waheed_hanzalah/status/1910982856933065048)
