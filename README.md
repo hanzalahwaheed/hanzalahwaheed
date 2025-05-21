@@ -57,8 +57,13 @@
 
 <!-- latest-tweets-start -->
 
+* [RT @theo: Microsoft just open sourced Copilot and Windows Subsystem for Linux under the MIT license. Huge day for OSS.](https://twitter.com/waheed_hanzalah/status/1924770042861994032)
+* [running android studio on WSL 🤓 https://t.co/fti54orGEZ](https://twitter.com/waheed_hanzalah/status/1924768922194346176)
+* [Just some great insights and I actually learned something new!
+A few thoughts tho
+It’s a bit slow on big PRs (stared at package.json way too long)
+Gets a bit imaginative with external libs.
+Not every suggestion is gold—let me remove files from the PR
+Allow✖️ once done with a file https://t.co/OPBEMvG1Lp](https://twitter.com/waheed_hanzalah/status/1923749297696407585)
+* [@Harish_52 @kirat_tw outlier ai is real?](https://twitter.com/waheed_hanzalah/status/1923631918958170261)
 * [POV: ur building an OTP verification system for whatsapp https://t.co/PsTQFB2y4I](https://twitter.com/waheed_hanzalah/status/1921203095209472351)
-* [@ankit1478 @dhrxvtwts gta 6 release date](https://twitter.com/waheed_hanzalah/status/1920389160931623141)
-* [RT @cursor_ai: Cursor is now free for students. Enjoy!](https://twitter.com/waheed_hanzalah/status/1920168848650809843)
-* [@aidenybai i set them always, never noticed a difference tho 🙄](https://twitter.com/waheed_hanzalah/status/1912189532595794376)
-* [@sargampoudel fr. just take 30 mins n learn to use a debugger ffs!](https://twitter.com/waheed_hanzalah/status/1911531185630777359)
