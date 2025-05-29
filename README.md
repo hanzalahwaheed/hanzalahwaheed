@@ -57,15 +57,10 @@
 
 <!-- latest-tweets-start -->
 
+* [isi reason se indians badnaam hai https://t.co/U4Ar20pC9X](https://twitter.com/waheed_hanzalah/status/1926719372862669055)
+* [RT @thekitze: sonnet 4 confirmed 100% human https://t.co/JxBZNwH7JN](https://twitter.com/waheed_hanzalah/status/1926634739827363929)
 * [ty @perplexity_ai 
 
 claim ur stickers here folks: https://t.co/A3QrL2481Z https://t.co/O4Ami0ScMC](https://twitter.com/waheed_hanzalah/status/1925475023290241367)
 * [RT @aidenybai: hey guys i just learned this new git command for solving merge conficts https://t.co/r11ENu5Pbu](https://twitter.com/waheed_hanzalah/status/1925071271857188962)
 * [RT @theo: Microsoft just open sourced Copilot and Windows Subsystem for Linux under the MIT license. Huge day for OSS.](https://twitter.com/waheed_hanzalah/status/1924770042861994032)
-* [running android studio on WSL 🤓 https://t.co/fti54orGEZ](https://twitter.com/waheed_hanzalah/status/1924768922194346176)
-* [Just some great insights and I actually learned something new!
-A few thoughts tho
-It’s a bit slow on big PRs (stared at package.json way too long)
-Gets a bit imaginative with external libs.
-Not every suggestion is gold—let me remove files from the PR
-Allow✖️ once done with a file https://t.co/OPBEMvG1Lp](https://twitter.com/waheed_hanzalah/status/1923749297696407585)
