@@ -57,10 +57,8 @@
 
 <!-- latest-tweets-start -->
 
+* [@polar_sh wuff wuff](https://twitter.com/waheed_hanzalah/status/1930341497293156740)
+* [@aidenybai windsurf is better in this aspect. giving it a prompt to just improve my code as per general coding standards does that.](https://twitter.com/waheed_hanzalah/status/1930339236739461560)
 * [@AnxKhn thanos wya?](https://twitter.com/waheed_hanzalah/status/1928893309851685272)
 * [isi reason se indians badnaam hai https://t.co/U4Ar20pC9X](https://twitter.com/waheed_hanzalah/status/1926719372862669055)
 * [RT @thekitze: sonnet 4 confirmed 100% human https://t.co/JxBZNwH7JN](https://twitter.com/waheed_hanzalah/status/1926634739827363929)
-* [ty @perplexity_ai 
-
-claim ur stickers here folks: https://t.co/A3QrL2481Z https://t.co/O4Ami0ScMC](https://twitter.com/waheed_hanzalah/status/1925475023290241367)
-* [RT @aidenybai: hey guys i just learned this new git command for solving merge conficts https://t.co/r11ENu5Pbu](https://twitter.com/waheed_hanzalah/status/1925071271857188962)
