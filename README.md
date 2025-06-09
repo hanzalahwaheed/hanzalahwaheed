@@ -57,8 +57,10 @@
 
 <!-- latest-tweets-start -->
 
-* [@polar_sh wuff wuff](https://twitter.com/waheed_hanzalah/status/1930341497293156740)
-* [@aidenybai windsurf is better in this aspect. giving it a prompt to just improve my code as per general coding standards does that.](https://twitter.com/waheed_hanzalah/status/1930339236739461560)
-* [@AnxKhn thanos wya?](https://twitter.com/waheed_hanzalah/status/1928893309851685272)
-* [isi reason se indians badnaam hai https://t.co/U4Ar20pC9X](https://twitter.com/waheed_hanzalah/status/1926719372862669055)
-* [RT @thekitze: sonnet 4 confirmed 100% human https://t.co/JxBZNwH7JN](https://twitter.com/waheed_hanzalah/status/1926634739827363929)
+* [RT @hkproj: You are the average of the 5 LLMs that you use the most.](https://twitter.com/waheed_hanzalah/status/1931381441600111031)
+* [RT @haydendevs: just started watching this show and its an absolute masterpiece https://t.co/Fgd4MdyRAr](https://twitter.com/waheed_hanzalah/status/1931064742300520838)
+* [@AnxKhn @FOSSUnited @IndiaFOSS atb bud!](https://twitter.com/waheed_hanzalah/status/1931064218423582738)
+* [i think, i think I understood what closures in JS are... https://t.co/MOMTRznV1r](https://twitter.com/waheed_hanzalah/status/1930714982909726966)
+* [gemini code assist is really good. how is compared to cursor bugbot, code rabbit, copilot? 
+
+did i miss any? im sure i did :P https://t.co/sHgH01pAMC](https://twitter.com/waheed_hanzalah/status/1930606631127265624)
