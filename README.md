@@ -57,10 +57,10 @@
 
 <!-- latest-tweets-start -->
 
+* [RT @DhravyaShah: Greatest internet outage ever??
+
+would be very, very interesting to know what caused this. It's three different cloud prov…](https://twitter.com/waheed_hanzalah/status/1933250756288917980)
+* [one day Inshallah](https://twitter.com/waheed_hanzalah/status/1932680766103912589)
+* [okay, that’s a fire design https://t.co/L91QYbm5ig](https://twitter.com/waheed_hanzalah/status/1932303464002158890)
 * [RT @hkproj: You are the average of the 5 LLMs that you use the most.](https://twitter.com/waheed_hanzalah/status/1931381441600111031)
 * [RT @haydendevs: just started watching this show and its an absolute masterpiece https://t.co/Fgd4MdyRAr](https://twitter.com/waheed_hanzalah/status/1931064742300520838)
-* [@AnxKhn @FOSSUnited @IndiaFOSS atb bud!](https://twitter.com/waheed_hanzalah/status/1931064218423582738)
-* [i think, i think I understood what closures in JS are... https://t.co/MOMTRznV1r](https://twitter.com/waheed_hanzalah/status/1930714982909726966)
-* [gemini code assist is really good. how is compared to cursor bugbot, code rabbit, copilot? 
-
-did i miss any? im sure i did :P https://t.co/sHgH01pAMC](https://twitter.com/waheed_hanzalah/status/1930606631127265624)
