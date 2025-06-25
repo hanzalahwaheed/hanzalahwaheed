@@ -57,10 +57,12 @@
 
 <!-- latest-tweets-start -->
 
+* [do u know about a TS type called "never"?
+
+it is mainly used in error handling methods where a method will always throw an error and return nothing (never)
+
+read more here: https://t.co/wXwkZebHZA](https://twitter.com/waheed_hanzalah/status/1936836646948966691)
 * [RT @theo: End to end testing? Sounds like you don’t have any users](https://twitter.com/waheed_hanzalah/status/1936165427715227808)
 * [@sargampoudel i hope this is just sarcasm](https://twitter.com/waheed_hanzalah/status/1936163037389750651)
 * [@FrancescoCiull4 U should try Gemini’ s PR reviewer as well. Found it better than CR](https://twitter.com/waheed_hanzalah/status/1934875486758555994)
 * [RT @n0w00j: this guy would’ve singlehandedly kept the internet alive yesterday https://t.co/j4xLFxjrY0](https://twitter.com/waheed_hanzalah/status/1934138415051911544)
-* [RT @DhravyaShah: Greatest internet outage ever??
-
-would be very, very interesting to know what caused this. It's three different cloud prov…](https://twitter.com/waheed_hanzalah/status/1933250756288917980)
