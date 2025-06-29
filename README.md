@@ -57,12 +57,14 @@
 
 <!-- latest-tweets-start -->
 
+* [I'm DONE with Google https://t.co/QM1GQGPxVk via @YouTube
+
+pewdiepi’s linux era is so goated 🤌🤌](https://twitter.com/waheed_hanzalah/status/1938388914391421382)
+* [how powerful is claude code and gemini cli for neovim users now?](https://twitter.com/waheed_hanzalah/status/1938166119795462303)
+* [@AnxKhn 🫡](https://twitter.com/waheed_hanzalah/status/1938151945258340377)
 * [do u know about a TS type called "never"?
 
 it is mainly used in error handling methods where a method will always throw an error and return nothing (never)
 
 read more here: https://t.co/wXwkZebHZA](https://twitter.com/waheed_hanzalah/status/1936836646948966691)
 * [RT @theo: End to end testing? Sounds like you don’t have any users](https://twitter.com/waheed_hanzalah/status/1936165427715227808)
-* [@sargampoudel i hope this is just sarcasm](https://twitter.com/waheed_hanzalah/status/1936163037389750651)
-* [@FrancescoCiull4 U should try Gemini’ s PR reviewer as well. Found it better than CR](https://twitter.com/waheed_hanzalah/status/1934875486758555994)
-* [RT @n0w00j: this guy would’ve singlehandedly kept the internet alive yesterday https://t.co/j4xLFxjrY0](https://twitter.com/waheed_hanzalah/status/1934138415051911544)
