@@ -57,14 +57,9 @@
 
 <!-- latest-tweets-start -->
 
+* [koi nhi but never again](https://twitter.com/waheed_hanzalah/status/1940859089774575856)
 * [I'm DONE with Google https://t.co/QM1GQGPxVk via @YouTube
 
 pewdiepi’s linux era is so goated 🤌🤌](https://twitter.com/waheed_hanzalah/status/1938388914391421382)
 * [how powerful is claude code and gemini cli for neovim users now?](https://twitter.com/waheed_hanzalah/status/1938166119795462303)
 * [@AnxKhn 🫡](https://twitter.com/waheed_hanzalah/status/1938151945258340377)
-* [do u know about a TS type called "never"?
-
-it is mainly used in error handling methods where a method will always throw an error and return nothing (never)
-
-read more here: https://t.co/wXwkZebHZA](https://twitter.com/waheed_hanzalah/status/1936836646948966691)
-* [RT @theo: End to end testing? Sounds like you don’t have any users](https://twitter.com/waheed_hanzalah/status/1936165427715227808)
