@@ -57,9 +57,9 @@
 
 <!-- latest-tweets-start -->
 
+* [us moment https://t.co/XNsH6Uxoq9](https://twitter.com/waheed_hanzalah/status/1942955019252445273)
 * [koi nhi but never again](https://twitter.com/waheed_hanzalah/status/1940859089774575856)
 * [I'm DONE with Google https://t.co/QM1GQGPxVk via @YouTube
 
 pewdiepi’s linux era is so goated 🤌🤌](https://twitter.com/waheed_hanzalah/status/1938388914391421382)
 * [how powerful is claude code and gemini cli for neovim users now?](https://twitter.com/waheed_hanzalah/status/1938166119795462303)
-* [@AnxKhn 🫡](https://twitter.com/waheed_hanzalah/status/1938151945258340377)
