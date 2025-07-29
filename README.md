@@ -57,9 +57,14 @@
 
 <!-- latest-tweets-start -->
 
-* [RT @ColinErdman: @WarrenInTheBuff Postgres jsonb fields are where I do my dirtiest work.](https://twitter.com/waheed_hanzalah/status/1947998117871370484)
-* [us moment https://t.co/XNsH6Uxoq9](https://twitter.com/waheed_hanzalah/status/1942955019252445273)
-* [koi nhi but never again](https://twitter.com/waheed_hanzalah/status/1940859089774575856)
-* [I'm DONE with Google https://t.co/QM1GQGPxVk via @YouTube
+* [@AnxKhn 🫂](https://twitter.com/waheed_hanzalah/status/1949100689654796606)
+* [@AlbiaHossain thanks Robin!](https://twitter.com/waheed_hanzalah/status/1949100642431033517)
+* [@KauntiaKetan thanks Ketan! rooting for you as well!](https://twitter.com/waheed_hanzalah/status/1949100599187824780)
+* [RT @AnxKhn: although i got the ppo and was barred from on-campus opportunities, it felt like a huge setback.
 
-pewdiepi’s linux era is so goated 🤌🤌](https://twitter.com/waheed_hanzalah/status/1938388914391421382)
+but the comeback was stronger…](https://twitter.com/waheed_hanzalah/status/1949045415355044183)
+* [alhamdulillah ✨
+
+receiving ur first offer letter, that too on ur b'day🤌🤌🤌
+
+ekdam mashallah bolo ✨ https://t.co/z7CvOHO2hK](https://twitter.com/waheed_hanzalah/status/1948814299742568667)
