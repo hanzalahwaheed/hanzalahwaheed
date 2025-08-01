@@ -57,14 +57,19 @@
 
 <!-- latest-tweets-start -->
 
+* [Zod + PG: nullable vs nullish vs optional
+
+🔹nullable() → value can be null, key must be present
+🔹optional() → key can be missing — use if DB has DEFAULT
+🔹nullish() → accepts both null &amp; undefined
+
+if
+DB = src of truth → use .optional
+else
+App = src of truth → use .default](https://twitter.com/waheed_hanzalah/status/1950319645917172166)
 * [@AnxKhn 🫂](https://twitter.com/waheed_hanzalah/status/1949100689654796606)
 * [@AlbiaHossain thanks Robin!](https://twitter.com/waheed_hanzalah/status/1949100642431033517)
 * [@KauntiaKetan thanks Ketan! rooting for you as well!](https://twitter.com/waheed_hanzalah/status/1949100599187824780)
 * [RT @AnxKhn: although i got the ppo and was barred from on-campus opportunities, it felt like a huge setback.
 
 but the comeback was stronger…](https://twitter.com/waheed_hanzalah/status/1949045415355044183)
-* [alhamdulillah ✨
-
-receiving ur first offer letter, that too on ur b'day🤌🤌🤌
-
-ekdam mashallah bolo ✨ https://t.co/z7CvOHO2hK](https://twitter.com/waheed_hanzalah/status/1948814299742568667)
