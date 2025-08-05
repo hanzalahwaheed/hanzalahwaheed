@@ -57,6 +57,7 @@
 
 <!-- latest-tweets-start -->
 
+* [employee ID 001 ✨](https://twitter.com/waheed_hanzalah/status/1951362550454460615)
 * [Zod + PG: nullable vs nullish vs optional
 
 🔹nullable() → value can be null, key must be present
@@ -70,6 +71,3 @@ App = src of truth → use .default](https://twitter.com/waheed_hanzalah/status/
 * [@AnxKhn 🫂](https://twitter.com/waheed_hanzalah/status/1949100689654796606)
 * [@AlbiaHossain thanks Robin!](https://twitter.com/waheed_hanzalah/status/1949100642431033517)
 * [@KauntiaKetan thanks Ketan! rooting for you as well!](https://twitter.com/waheed_hanzalah/status/1949100599187824780)
-* [RT @AnxKhn: although i got the ppo and was barred from on-campus opportunities, it felt like a huge setback.
-
-but the comeback was stronger…](https://twitter.com/waheed_hanzalah/status/1949045415355044183)
