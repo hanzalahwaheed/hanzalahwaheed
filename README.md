@@ -57,17 +57,10 @@
 
 <!-- latest-tweets-start -->
 
-* [employee ID 001 ✨](https://twitter.com/waheed_hanzalah/status/1951362550454460615)
-* [Zod + PG: nullable vs nullish vs optional
+* [not bad not bad https://t.co/SHw8NcmW4P](https://twitter.com/waheed_hanzalah/status/1953978018319454351)
+* [@The_Sleigher solid ragebait bhai](https://twitter.com/waheed_hanzalah/status/1953964938122145979)
+* [@AlbiaHossain looks neat! 
 
-🔹nullable() → value can be null, key must be present
-🔹optional() → key can be missing — use if DB has DEFAULT
-🔹nullish() → accepts both null &amp; undefined
-
-if
-DB = src of truth → use .optional
-else
-App = src of truth → use .default](https://twitter.com/waheed_hanzalah/status/1950319645917172166)
-* [@AnxKhn 🫂](https://twitter.com/waheed_hanzalah/status/1949100689654796606)
-* [@AlbiaHossain thanks Robin!](https://twitter.com/waheed_hanzalah/status/1949100642431033517)
-* [@KauntiaKetan thanks Ketan! rooting for you as well!](https://twitter.com/waheed_hanzalah/status/1949100599187824780)
+do try claude/gpt  to improve it. dont stay in denial for long bud :p](https://twitter.com/waheed_hanzalah/status/1953964068215116198)
+* [@AnxKhn @cursor_ai y is gippity groping stuff?](https://twitter.com/waheed_hanzalah/status/1953962975129481405)
+* [any way to get github pro now? https://t.co/gDXaWXXWBT](https://twitter.com/waheed_hanzalah/status/1953497236958073039)
