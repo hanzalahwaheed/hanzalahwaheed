@@ -57,10 +57,11 @@
 
 <!-- latest-tweets-start -->
 
+* [taught mom to use chatgpt today. she's never googling again!](https://twitter.com/waheed_hanzalah/status/1954981520453533973)
+* [2025 so far https://t.co/jTJiBBhHnP](https://twitter.com/waheed_hanzalah/status/1954687183643611605)
+* [@Star_Knight12 solid ragebait](https://twitter.com/waheed_hanzalah/status/1954215486310211994)
+* [RT @kirat_tw: gpt-5 is here. are u coding anon? 
+Do u see the need of surface level knowledge vanish?
+Are you still doing html/css/dsa?
+Is…](https://twitter.com/waheed_hanzalah/status/1954093605355692076)
 * [not bad not bad https://t.co/SHw8NcmW4P](https://twitter.com/waheed_hanzalah/status/1953978018319454351)
-* [@The_Sleigher solid ragebait bhai](https://twitter.com/waheed_hanzalah/status/1953964938122145979)
-* [@AlbiaHossain looks neat! 
-
-do try claude/gpt  to improve it. dont stay in denial for long bud :p](https://twitter.com/waheed_hanzalah/status/1953964068215116198)
-* [@AnxKhn @cursor_ai y is gippity groping stuff?](https://twitter.com/waheed_hanzalah/status/1953962975129481405)
-* [any way to get github pro now? https://t.co/gDXaWXXWBT](https://twitter.com/waheed_hanzalah/status/1953497236958073039)
