@@ -57,8 +57,10 @@
 
 <!-- latest-tweets-start -->
 
+* [Goated Software fr!! https://t.co/2EZRpfe170](https://twitter.com/waheed_hanzalah/status/1958104576982180121)
+* [@Abhinavstwt @arpit_bhayani how can any1 charge for pirated content?! 😭](https://twitter.com/waheed_hanzalah/status/1957867758810505642)
+* [@zaidmukaddam you've been on a roll man! respect!](https://twitter.com/waheed_hanzalah/status/1957470709870960812)
+* [the comeback is unreal! hitting 10K very soon myself!
+
+@ClashRoyale @perplexity_ai https://t.co/VacxCHnhaJ](https://twitter.com/waheed_hanzalah/status/1957470400868200708)
 * [@AlbiaHossain tauba tauba](https://twitter.com/waheed_hanzalah/status/1956830644618555483)
-* [@AnxKhn 💪](https://twitter.com/waheed_hanzalah/status/1956780798138323183)
-* [@jiratickets step 1 is crazy](https://twitter.com/waheed_hanzalah/status/1956169041170608161)
-* [about time! https://t.co/AtlfJIiD2G](https://twitter.com/waheed_hanzalah/status/1956166437585727895)
-* [@KauntiaKetan ?](https://twitter.com/waheed_hanzalah/status/1956076658940665996)
