@@ -57,10 +57,11 @@
 
 <!-- latest-tweets-start -->
 
-* [Goated Software fr!! https://t.co/2EZRpfe170](https://twitter.com/waheed_hanzalah/status/1958104576982180121)
-* [@Abhinavstwt @arpit_bhayani how can any1 charge for pirated content?! 😭](https://twitter.com/waheed_hanzalah/status/1957867758810505642)
-* [@zaidmukaddam you've been on a roll man! respect!](https://twitter.com/waheed_hanzalah/status/1957470709870960812)
-* [the comeback is unreal! hitting 10K very soon myself!
+* [Folks who vibe code w @windsurf , which model has the best for performance to credit ratio atm? https://t.co/1YVpmZPxLm](https://twitter.com/waheed_hanzalah/status/1959739017722769443)
+* [@infinite_lo0p @perplexity_ai agreed ffs](https://twitter.com/waheed_hanzalah/status/1959730204047237383)
+* [@jia_seed @garrytan lfg!](https://twitter.com/waheed_hanzalah/status/1959710124681154788)
+* [RT @hthieblot: The alpha in being a founding engineer right now is insane:
 
-@ClashRoyale @perplexity_ai https://t.co/VacxCHnhaJ](https://twitter.com/waheed_hanzalah/status/1957470400868200708)
-* [@AlbiaHossain tauba tauba](https://twitter.com/waheed_hanzalah/status/1956830644618555483)
+-Join something already working
+-Get 3–5% equity, walk away gui…](https://twitter.com/waheed_hanzalah/status/1959400594789314755)
+* [@MAlshaik__ @ycombinator @jia_seed inshallah!](https://twitter.com/waheed_hanzalah/status/1959397173453566422)
