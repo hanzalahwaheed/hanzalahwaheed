@@ -57,11 +57,15 @@
 
 <!-- latest-tweets-start -->
 
-* [Folks who vibe code w @windsurf , which model has the best for performance to credit ratio atm? https://t.co/1YVpmZPxLm](https://twitter.com/waheed_hanzalah/status/1959739017722769443)
-* [@infinite_lo0p @perplexity_ai agreed ffs](https://twitter.com/waheed_hanzalah/status/1959730204047237383)
-* [@jia_seed @garrytan lfg!](https://twitter.com/waheed_hanzalah/status/1959710124681154788)
-* [RT @hthieblot: The alpha in being a founding engineer right now is insane:
+* [@KauntiaKetan good stuff ketan!](https://twitter.com/waheed_hanzalah/status/1961108638887809095)
+* [Checkout the updated Disclosures Dashboard @stockinsightsai  ✨
 
--Join something already working
--Get 3–5% equity, walk away gui…](https://twitter.com/waheed_hanzalah/status/1959400594789314755)
-* [@MAlshaik__ @ycombinator @jia_seed inshallah!](https://twitter.com/waheed_hanzalah/status/1959397173453566422)
+Now showing 8-K and 6-K filings BOTH! https://t.co/Igkj0xbpmz](https://twitter.com/waheed_hanzalah/status/1960945441861984352)
+* [@MAlshaik__ @jia_seed @ycombinator w edit. congrats!](https://twitter.com/waheed_hanzalah/status/1960831741469532603)
+* [proof that software really doesn't need a moat—just a good use case.
+
+vibecoded a simple A/B image generator in an hour and 15 people have already found it useful.
+
+check it out:
+https://t.co/HHZxZynEZ3](https://twitter.com/waheed_hanzalah/status/1960823062775128417)
+* [@mannupaaji u forgot Junior Software Associate :P](https://twitter.com/waheed_hanzalah/status/1960414835214102742)
