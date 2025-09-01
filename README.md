@@ -57,15 +57,12 @@
 
 <!-- latest-tweets-start -->
 
-* [@KauntiaKetan good stuff ketan!](https://twitter.com/waheed_hanzalah/status/1961108638887809095)
-* [Checkout the updated Disclosures Dashboard @stockinsightsai  ✨
+* [agents are just while loops https://t.co/YUUa6kfF8y](https://twitter.com/waheed_hanzalah/status/1962272535728255356)
+* [end of the month. restart ur laptops. https://t.co/fXSzYdgxfz](https://twitter.com/waheed_hanzalah/status/1962186160270176267)
+* [RT @MKBHD: I LOVE good analogies 
 
-Now showing 8-K and 6-K filings BOTH! https://t.co/Igkj0xbpmz](https://twitter.com/waheed_hanzalah/status/1960945441861984352)
-* [@MAlshaik__ @jia_seed @ycombinator w edit. congrats!](https://twitter.com/waheed_hanzalah/status/1960831741469532603)
-* [proof that software really doesn't need a moat—just a good use case.
+https://t.co/EILiXEacKb https://t.co/xTD0IGR83Y](https://twitter.com/waheed_hanzalah/status/1962184896526569550)
+* [RT @original_ngv: I never got into GSOC, I never did CP, and I never did LeetCode religiously. 
 
-vibecoded a simple A/B image generator in an hour and 15 people have already found it useful.
-
-check it out:
-https://t.co/HHZxZynEZ3](https://twitter.com/waheed_hanzalah/status/1960823062775128417)
-* [@mannupaaji u forgot Junior Software Associate :P](https://twitter.com/waheed_hanzalah/status/1960414835214102742)
+I was not part of the Web 3 scene, and I d…](https://twitter.com/waheed_hanzalah/status/1962122604279452122)
+* [@AnxKhn just read this. beautiful.](https://twitter.com/waheed_hanzalah/status/1962121743230816341)
