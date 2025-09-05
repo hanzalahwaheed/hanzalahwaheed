@@ -57,12 +57,8 @@
 
 <!-- latest-tweets-start -->
 
-* [agents are just while loops https://t.co/YUUa6kfF8y](https://twitter.com/waheed_hanzalah/status/1962272535728255356)
-* [end of the month. restart ur laptops. https://t.co/fXSzYdgxfz](https://twitter.com/waheed_hanzalah/status/1962186160270176267)
-* [RT @MKBHD: I LOVE good analogies 
-
-https://t.co/EILiXEacKb https://t.co/xTD0IGR83Y](https://twitter.com/waheed_hanzalah/status/1962184896526569550)
-* [RT @original_ngv: I never got into GSOC, I never did CP, and I never did LeetCode religiously. 
-
-I was not part of the Web 3 scene, and I d…](https://twitter.com/waheed_hanzalah/status/1962122604279452122)
-* [@AnxKhn just read this. beautiful.](https://twitter.com/waheed_hanzalah/status/1962121743230816341)
+* [man i love indie games https://t.co/0xdesUgyP0](https://twitter.com/waheed_hanzalah/status/1963728655705842144)
+* [silksongs got a lot of bugs man. y do people even play this game](https://twitter.com/waheed_hanzalah/status/1963707389682843729)
+* [@TheIshanGoswami https://t.co/wKQZ4yjhbv](https://twitter.com/waheed_hanzalah/status/1963507683429957820)
+* [still down :( https://t.co/HAW4VxL2ih](https://twitter.com/waheed_hanzalah/status/1963355503372783966)
+* [no 420 :P @Peerlist https://t.co/D5cCptUSpZ](https://twitter.com/waheed_hanzalah/status/1963351979763073231)
