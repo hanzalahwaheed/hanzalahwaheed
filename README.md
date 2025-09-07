@@ -1,7 +1,7 @@
 ![1500x500](https://github.com/user-attachments/assets/cd805b9b-1002-4c8c-851c-3026ac91b0c5)
 
 <div align="center">
-   <h1>Hey there, I'm <a href="https://github.com/hanzalahwaheed/">Hanzalah </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   <h1>Hey there, I'm <a href="https://github.com/hanzalahwaheed/">Hanzalah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 </div>
 
 <p align="center">
@@ -10,39 +10,52 @@
 </p>
 
 <div align="center">
-   <h3> 💻 Full Stack Dev | 🛸 India  </h3>
-   <h4>⚡ I’m interested in Coding, Web Designing and Development. ⚡</h4>
+   <h3>💻 Software Development Engineer | 🛸 Bengaluru / Dubai</h3>
+   <h4>⚡ I build stuff, solve puzzles, and grind games 🎮</h4>
 </div>
 
-<br>
+---
 
-<p>
+### About Me
 
-- Fullstack Developer 🚀
-- Aspiring to become a skilled Software Developer ⚙️
-- Enthusiastic about building and contributing to projects
-- Open to connecting and exploring the world of tech together
-- Passionate about Anime and Gaming 🎮
+- Software Development Engineer 🚀, always chasing that clean, elegant code.
+- Obsessed with building and contributing to cool projects.
+- Open to chatting about tech, games, or why anime characters never eat enough.
+- Portfolio & projects: [hanzalahwaheed.com](https://hanzalahwaheed.com)
 
-🔗 To know more about me, you can check out my <a href="https://hanzalahwaheed.com"> **Portfolio** </a>
+---
 
-</p>
-
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" style="margin: 10px;">
-  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" style="margin: 10px;">
-  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript (JS)" style="margin: 10px;">
-  <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="JavaScript (JS)" style="margin: 10px;">
-  <img src="https://img.icons8.com/color/96/000000/nextjs.png" alt="Python" style="margin: 10px;">  <img src="https://img.icons8.com/officel/96/000000/react.png" alt="react" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/fluency/96/000000/node-js.png" alt="node-js" style="margin: 10px;"/>
-   <img  src="https://img.icons8.com/color/96/000000/mongodb.png" alt="mongodb" style="margin: 10px;"/>
-   <img src="https://img.icons8.com/color/96/000000/my-sql.png" alt="my-sql" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" style="margin: 10px;">
-   <img src="https://img.icons8.com/fluency/96/000000/figma.png" alt="figma" style="margin: 10px;"/>
+  <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" style="margin:10px;">
+  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" style="margin:10px;">
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" style="margin:10px;">
+  <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript" style="margin:10px;">
+  <img src="https://img.icons8.com/color/96/000000/nextjs.png" alt="Next.js" style="margin:10px;">
+  <img src="https://img.icons8.com/officel/96/000000/react.png" alt="React" style="margin:10px;">
+  <img src="https://img.icons8.com/fluency/96/000000/node-js.png" alt="Node.js" style="margin:10px;">
+  <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" style="margin:10px;">
+  <img src="https://img.icons8.com/color/96/000000/my-sql.png" alt="MySQL" style="margin:10px;">
+  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" style="margin:10px;">
+  <img src="https://img.icons8.com/fluency/96/000000/figma.png" alt="Figma" style="margin:10px;">
 </p>
-<br>
+
+---
+
+### 🐦 Latest Thoughts (Tweets)
+
+* [man i love indie games https://t.co/0xdesUgyP0](https://twitter.com/waheed_hanzalah/status/1963728655705842144)
+* [silksongs got a lot of bugs man. y do people even play this game](https://twitter.com/waheed_hanzalah/status/1963707389682843729)
+* [@TheIshanGoswami https://t.co/wKQZ4yjhbv](https://twitter.com/waheed_hanzalah/status/1963507683429957820)
+* [still down :( https://t.co/HAW4VxL2ih](https://twitter.com/waheed_hanzalah/status/1963355503372783966)
+* [no 420 :P @Peerlist https://t.co/D5cCptUSpZ](https://twitter.com/waheed_hanzalah/status/1963351979763073231)
+
+---
+
+#### Fun Fact:
+I take my coffee black, my code cleaner, and my anime extra dramatic.
+
 
 ### 📊 My Stats
 
