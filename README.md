@@ -70,8 +70,8 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [man i love indie games https://t.co/0xdesUgyP0](https://twitter.com/waheed_hanzalah/status/1963728655705842144)
-* [silksongs got a lot of bugs man. y do people even play this game](https://twitter.com/waheed_hanzalah/status/1963707389682843729)
-* [@TheIshanGoswami https://t.co/wKQZ4yjhbv](https://twitter.com/waheed_hanzalah/status/1963507683429957820)
-* [still down :( https://t.co/HAW4VxL2ih](https://twitter.com/waheed_hanzalah/status/1963355503372783966)
-* [no 420 :P @Peerlist https://t.co/D5cCptUSpZ](https://twitter.com/waheed_hanzalah/status/1963351979763073231)
+* [still not fixed https://t.co/vz6N1DRunv](https://twitter.com/waheed_hanzalah/status/1965062570026598531)
+* [@AlbiaHossain 👀👀](https://twitter.com/waheed_hanzalah/status/1964817793838469460)
+* [@Peerlist @AravSrinivas perplexity X peerlist soon](https://twitter.com/waheed_hanzalah/status/1964801092044378230)
+* [@Peerlist @AravSrinivas @AravSrinivas](https://twitter.com/waheed_hanzalah/status/1964800915342541272)
+* [RT @RhysSullivan: vendor lock in? uh yeah why wouldn't i want my vendor to be locked tf in](https://twitter.com/waheed_hanzalah/status/1964779947647775072)
