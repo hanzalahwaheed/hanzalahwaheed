@@ -70,8 +70,14 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [still not fixed https://t.co/vz6N1DRunv](https://twitter.com/waheed_hanzalah/status/1965062570026598531)
-* [@AlbiaHossain 👀👀](https://twitter.com/waheed_hanzalah/status/1964817793838469460)
-* [@Peerlist @AravSrinivas perplexity X peerlist soon](https://twitter.com/waheed_hanzalah/status/1964801092044378230)
-* [@Peerlist @AravSrinivas @AravSrinivas](https://twitter.com/waheed_hanzalah/status/1964800915342541272)
-* [RT @RhysSullivan: vendor lock in? uh yeah why wouldn't i want my vendor to be locked tf in](https://twitter.com/waheed_hanzalah/status/1964779947647775072)
+* [@ShettyDeveesh pretty cool! 
+
+I use grep a lot with the "history" command in the terminal. 
+history | grep "docker build"
+even better is to create an alias for this as "hg"](https://twitter.com/waheed_hanzalah/status/1966564655960072692)
+* [don’t wanna brag but signs of a good PR is net negative LOC https://t.co/o3GOF7h2kl](https://twitter.com/waheed_hanzalah/status/1966495564570218758)
+* [the non-fictional aspects of one piece man 🤌🤌🤌
+
+the way Oda has wrapped politics with fantasy is just wow](https://twitter.com/waheed_hanzalah/status/1966438507619971338)
+* [@pqoqubbw a rectangle](https://twitter.com/waheed_hanzalah/status/1966437335295234147)
+* [@AlbiaHossain @amritwt 🤣😭](https://twitter.com/waheed_hanzalah/status/1966227354713469095)
