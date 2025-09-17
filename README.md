@@ -70,14 +70,10 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [@ShettyDeveesh pretty cool! 
+* [likvid gilaaasss incoming https://t.co/yu8RFvLiPM](https://twitter.com/waheed_hanzalah/status/1968065591522312638)
+* [when you think the tasks are simple but that one bug takes the entire day istg man](https://twitter.com/waheed_hanzalah/status/1968010108224643431)
+* [RT @AnxKhn: PSA: Don’t believe everything you see on LinkedIn. https://t.co/Vo6VDJ2voZ](https://twitter.com/waheed_hanzalah/status/1967704619456585875)
+* [@hey_yogini is this an AI code reviewer?](https://twitter.com/waheed_hanzalah/status/1967630981189476534)
+* [implement that feature first.
 
-I use grep a lot with the "history" command in the terminal. 
-history | grep "docker build"
-even better is to create an alias for this as "hg"](https://twitter.com/waheed_hanzalah/status/1966564655960072692)
-* [don’t wanna brag but signs of a good PR is net negative LOC https://t.co/o3GOF7h2kl](https://twitter.com/waheed_hanzalah/status/1966495564570218758)
-* [the non-fictional aspects of one piece man 🤌🤌🤌
-
-the way Oda has wrapped politics with fantasy is just wow](https://twitter.com/waheed_hanzalah/status/1966438507619971338)
-* [@pqoqubbw a rectangle](https://twitter.com/waheed_hanzalah/status/1966437335295234147)
-* [@AlbiaHossain @amritwt 🤣😭](https://twitter.com/waheed_hanzalah/status/1966227354713469095)
+u can then style it, refactor it, make it more efficient.](https://twitter.com/waheed_hanzalah/status/1967630837668778396)
