@@ -70,10 +70,8 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [likvid gilaaasss incoming https://t.co/yu8RFvLiPM](https://twitter.com/waheed_hanzalah/status/1968065591522312638)
-* [when you think the tasks are simple but that one bug takes the entire day istg man](https://twitter.com/waheed_hanzalah/status/1968010108224643431)
-* [RT @AnxKhn: PSA: Don’t believe everything you see on LinkedIn. https://t.co/Vo6VDJ2voZ](https://twitter.com/waheed_hanzalah/status/1967704619456585875)
-* [@hey_yogini is this an AI code reviewer?](https://twitter.com/waheed_hanzalah/status/1967630981189476534)
-* [implement that feature first.
-
-u can then style it, refactor it, make it more efficient.](https://twitter.com/waheed_hanzalah/status/1967630837668778396)
+* [@zaidmukaddam @sciraai scira being metioned here and there. W https://t.co/dwCNIixTBC](https://twitter.com/waheed_hanzalah/status/1969501774265376955)
+* [@AnxKhn @FOSSUnited @IndiaFOSS get me some cool stickers](https://twitter.com/waheed_hanzalah/status/1969313651833114875)
+* [sometimes i watch 12 episode animes with no s2 just to feel pain](https://twitter.com/waheed_hanzalah/status/1969132811664638420)
+* [@dudufolio dont if its an m1. the lag is crazy.](https://twitter.com/waheed_hanzalah/status/1969115257965584783)
+* [@mihirtwt who is joma? is he cool?](https://twitter.com/waheed_hanzalah/status/1969109022541332799)
