@@ -70,8 +70,9 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [@zaidmukaddam @sciraai scira being metioned here and there. W https://t.co/dwCNIixTBC](https://twitter.com/waheed_hanzalah/status/1969501774265376955)
-* [@AnxKhn @FOSSUnited @IndiaFOSS get me some cool stickers](https://twitter.com/waheed_hanzalah/status/1969313651833114875)
-* [sometimes i watch 12 episode animes with no s2 just to feel pain](https://twitter.com/waheed_hanzalah/status/1969132811664638420)
-* [@dudufolio dont if its an m1. the lag is crazy.](https://twitter.com/waheed_hanzalah/status/1969115257965584783)
-* [@mihirtwt who is joma? is he cool?](https://twitter.com/waheed_hanzalah/status/1969109022541332799)
+* [reason i got into engineering. 
+now I center divs. https://t.co/j8ljmc3Pv2](https://twitter.com/waheed_hanzalah/status/1970468886228488464)
+* [@kshvbgde if u do it on the main branch, its not](https://twitter.com/waheed_hanzalah/status/1970438956400402469)
+* [@striver_79 engineering blogs when?](https://twitter.com/waheed_hanzalah/status/1970435312271925626)
+* [its a stripe!!! https://t.co/U2knrR2fGJ](https://twitter.com/waheed_hanzalah/status/1970391870938456419)
+* [@shubhstwt @amazon @amazonIN @GyanTherapy how much was it going for?](https://twitter.com/waheed_hanzalah/status/1970112171687481665)
