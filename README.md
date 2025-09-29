@@ -70,9 +70,10 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [reason i got into engineering. 
-now I center divs. https://t.co/j8ljmc3Pv2](https://twitter.com/waheed_hanzalah/status/1970468886228488464)
-* [@kshvbgde if u do it on the main branch, its not](https://twitter.com/waheed_hanzalah/status/1970438956400402469)
-* [@striver_79 engineering blogs when?](https://twitter.com/waheed_hanzalah/status/1970435312271925626)
-* [its a stripe!!! https://t.co/U2knrR2fGJ](https://twitter.com/waheed_hanzalah/status/1970391870938456419)
-* [@shubhstwt @amazon @amazonIN @GyanTherapy how much was it going for?](https://twitter.com/waheed_hanzalah/status/1970112171687481665)
+* [real PRO TIP:
+
+CHAR(10) in Postgres always takes 10 chars, wastes space, not efficient. VARCHAR(255) is just a MySQL thing, not PG. Postgres wants you to use TEXT — simple semantics, same efficiency.](https://twitter.com/waheed_hanzalah/status/1972353906912153972)
+* [RT @bikiprasad28: Hacktoberfest 2025 is coming in few days. a request to all the students who are registering. Pls make meaningful contribu…](https://twitter.com/waheed_hanzalah/status/1972345443343634939)
+* [use `p-limit` to control the concurrency of promises. very useful for rate limited APIs. https://t.co/8zdPVohYEL](https://twitter.com/waheed_hanzalah/status/1972253636643418244)
+* [@jia_seed @MAlshaik__ i see that u are of the culture as well 🤝](https://twitter.com/waheed_hanzalah/status/1972252942062510095)
+* [https://t.co/RbiW1zsZst https://t.co/wGYKZCyxWd](https://twitter.com/waheed_hanzalah/status/1972062411453878588)
