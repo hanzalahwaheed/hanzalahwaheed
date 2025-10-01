@@ -70,10 +70,8 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [real PRO TIP:
-
-CHAR(10) in Postgres always takes 10 chars, wastes space, not efficient. VARCHAR(255) is just a MySQL thing, not PG. Postgres wants you to use TEXT — simple semantics, same efficiency.](https://twitter.com/waheed_hanzalah/status/1972353906912153972)
-* [RT @bikiprasad28: Hacktoberfest 2025 is coming in few days. a request to all the students who are registering. Pls make meaningful contribu…](https://twitter.com/waheed_hanzalah/status/1972345443343634939)
-* [use `p-limit` to control the concurrency of promises. very useful for rate limited APIs. https://t.co/8zdPVohYEL](https://twitter.com/waheed_hanzalah/status/1972253636643418244)
-* [@jia_seed @MAlshaik__ i see that u are of the culture as well 🤝](https://twitter.com/waheed_hanzalah/status/1972252942062510095)
-* [https://t.co/RbiW1zsZst https://t.co/wGYKZCyxWd](https://twitter.com/waheed_hanzalah/status/1972062411453878588)
+* [@idariusdan now I can get the mx3 😈](https://twitter.com/waheed_hanzalah/status/1973145398165549315)
+* [@mehulmpt "maza nhi aya. do it again."](https://twitter.com/waheed_hanzalah/status/1973103536838717710)
+* [ladies and gentlemen, 10K https://t.co/WZaArPn4NX https://t.co/ihl9nKhcny](https://twitter.com/waheed_hanzalah/status/1973102906409648238)
+* [redstone beats all languages https://t.co/Qjd2nJIBOS](https://twitter.com/waheed_hanzalah/status/1972987698043597167)
+* [@just_avik @CSNoBSdotcom @Railway W](https://twitter.com/waheed_hanzalah/status/1972961620931539041)
