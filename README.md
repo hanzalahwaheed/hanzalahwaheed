@@ -70,8 +70,9 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [@idariusdan now I can get the mx3 😈](https://twitter.com/waheed_hanzalah/status/1973145398165549315)
-* [@mehulmpt "maza nhi aya. do it again."](https://twitter.com/waheed_hanzalah/status/1973103536838717710)
-* [ladies and gentlemen, 10K https://t.co/WZaArPn4NX https://t.co/ihl9nKhcny](https://twitter.com/waheed_hanzalah/status/1973102906409648238)
-* [redstone beats all languages https://t.co/Qjd2nJIBOS](https://twitter.com/waheed_hanzalah/status/1972987698043597167)
-* [@just_avik @CSNoBSdotcom @Railway W](https://twitter.com/waheed_hanzalah/status/1972961620931539041)
+* [this is what should be done if more than one devs are working on the same branch simultaneously https://t.co/hS1kJBtplz](https://twitter.com/waheed_hanzalah/status/1974544128810885551)
+* [@ShettyDeveesh znmd](https://twitter.com/waheed_hanzalah/status/1974542221581152536)
+* [@ImSh4yy topped it w this one](https://twitter.com/waheed_hanzalah/status/1974293942553477311)
+* [Another one merged!
+https://t.co/JZIuZOAQU8 https://t.co/vDusvblZtu](https://twitter.com/waheed_hanzalah/status/1974159985853775930)
+* [the goal is to never open linkedin again](https://twitter.com/waheed_hanzalah/status/1974064004524814752)
