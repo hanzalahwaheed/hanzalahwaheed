@@ -43,16 +43,6 @@
 
 ---
 
-### 🐦 Latest Thoughts (Tweets)
-
-* [man i love indie games https://t.co/0xdesUgyP0](https://twitter.com/waheed_hanzalah/status/1963728655705842144)
-* [silksongs got a lot of bugs man. y do people even play this game](https://twitter.com/waheed_hanzalah/status/1963707389682843729)
-* [@TheIshanGoswami https://t.co/wKQZ4yjhbv](https://twitter.com/waheed_hanzalah/status/1963507683429957820)
-* [still down :( https://t.co/HAW4VxL2ih](https://twitter.com/waheed_hanzalah/status/1963355503372783966)
-* [no 420 :P @Peerlist https://t.co/D5cCptUSpZ](https://twitter.com/waheed_hanzalah/status/1963351979763073231)
-
----
-
 #### Fun Fact:
 I take my coffee black, my code cleaner, and my anime extra dramatic.
 
