@@ -60,9 +60,9 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [this is what should be done if more than one devs are working on the same branch simultaneously https://t.co/hS1kJBtplz](https://twitter.com/waheed_hanzalah/status/1974544128810885551)
-* [@ShettyDeveesh znmd](https://twitter.com/waheed_hanzalah/status/1974542221581152536)
-* [@ImSh4yy topped it w this one](https://twitter.com/waheed_hanzalah/status/1974293942553477311)
-* [Another one merged!
-https://t.co/JZIuZOAQU8 https://t.co/vDusvblZtu](https://twitter.com/waheed_hanzalah/status/1974159985853775930)
-* [the goal is to never open linkedin again](https://twitter.com/waheed_hanzalah/status/1974064004524814752)
+* [underscore + underscore = dunkirk](https://twitter.com/waheed_hanzalah/status/1976023739205812325)
+* [@sanjeed_i would be even better if this was also a plugin in @raycast](https://twitter.com/waheed_hanzalah/status/1975958950777331763)
+* [bro y would u raise an issue asking them to change their fukin logo??? 
+also this UI is pretty good. this is forcefully finding faults. https://t.co/DDUAbQvoHB](https://twitter.com/waheed_hanzalah/status/1975942552370155734)
+* [@fa1zvn he is also .](https://twitter.com/waheed_hanzalah/status/1975689127061561821)
+* [https://t.co/BvADmSAK3k mobile app coming soon on android! https://t.co/BD14V8wfkI](https://twitter.com/waheed_hanzalah/status/1975540212236493240)
