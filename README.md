@@ -60,9 +60,8 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [underscore + underscore = dunkirk](https://twitter.com/waheed_hanzalah/status/1976023739205812325)
-* [@sanjeed_i would be even better if this was also a plugin in @raycast](https://twitter.com/waheed_hanzalah/status/1975958950777331763)
-* [bro y would u raise an issue asking them to change their fukin logo??? 
-also this UI is pretty good. this is forcefully finding faults. https://t.co/DDUAbQvoHB](https://twitter.com/waheed_hanzalah/status/1975942552370155734)
-* [@fa1zvn he is also .](https://twitter.com/waheed_hanzalah/status/1975689127061561821)
-* [https://t.co/BvADmSAK3k mobile app coming soon on android! https://t.co/BD14V8wfkI](https://twitter.com/waheed_hanzalah/status/1975540212236493240)
+* [heavy MLE https://t.co/QaFaiO6ZqC](https://twitter.com/waheed_hanzalah/status/1977479334802629019)
+* [@zaidmukaddam i luv that u added bootstrapped in ur bio 😂](https://twitter.com/waheed_hanzalah/status/1977461856005451794)
+* [@AlbiaHossain 🫡](https://twitter.com/waheed_hanzalah/status/1977392248107995396)
+* [@zaidmukaddam customers over urself 👏](https://twitter.com/waheed_hanzalah/status/1977368730477695430)
+* [@KashifShaghaf @nidhiisharmaaa mat kar lala](https://twitter.com/waheed_hanzalah/status/1977192680980361444)
