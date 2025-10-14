@@ -60,8 +60,8 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [heavy MLE https://t.co/QaFaiO6ZqC](https://twitter.com/waheed_hanzalah/status/1977479334802629019)
-* [@zaidmukaddam i luv that u added bootstrapped in ur bio 😂](https://twitter.com/waheed_hanzalah/status/1977461856005451794)
-* [@AlbiaHossain 🫡](https://twitter.com/waheed_hanzalah/status/1977392248107995396)
-* [@zaidmukaddam customers over urself 👏](https://twitter.com/waheed_hanzalah/status/1977368730477695430)
-* [@KashifShaghaf @nidhiisharmaaa mat kar lala](https://twitter.com/waheed_hanzalah/status/1977192680980361444)
+* [bro went bonkers https://t.co/J4I2NlUoKH](https://twitter.com/waheed_hanzalah/status/1978144618672734589)
+* [@_myoooor saw the clip again! he SWITCHES with the chakraaa! thats fire! 🔥](https://twitter.com/waheed_hanzalah/status/1978133505889477038)
+* [asked cursor to not use "any" types in the codebase. mf started to use "unknown" instead 😭](https://twitter.com/waheed_hanzalah/status/1978108338500972671)
+* [can’t wait 🔥 https://t.co/ib5lEmqo2q](https://twitter.com/waheed_hanzalah/status/1977775953989222643)
+* [@KauntiaKetan clean!](https://twitter.com/waheed_hanzalah/status/1977746669962682445)
