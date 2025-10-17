@@ -60,8 +60,9 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [bro went bonkers https://t.co/J4I2NlUoKH](https://twitter.com/waheed_hanzalah/status/1978144618672734589)
-* [@_myoooor saw the clip again! he SWITCHES with the chakraaa! thats fire! 🔥](https://twitter.com/waheed_hanzalah/status/1978133505889477038)
-* [asked cursor to not use "any" types in the codebase. mf started to use "unknown" instead 😭](https://twitter.com/waheed_hanzalah/status/1978108338500972671)
-* [can’t wait 🔥 https://t.co/ib5lEmqo2q](https://twitter.com/waheed_hanzalah/status/1977775953989222643)
-* [@KauntiaKetan clean!](https://twitter.com/waheed_hanzalah/status/1977746669962682445)
+* [@ShettyDeveesh electricfox missing](https://twitter.com/waheed_hanzalah/status/1978888992029319467)
+* [@soham_btw lgtm!](https://twitter.com/waheed_hanzalah/status/1978872279242064040)
+* [@KartikeyStack text looks too small tbh. if it can be moved closer to u that would be dope](https://twitter.com/waheed_hanzalah/status/1978771442553573562)
+* [TS PRO TIP:
+Use named object parameters instead of long positional lists. It makes your functions self-documenting, flexible for future changes, and avoids argument order confusion. https://t.co/dlfWM0tYXw](https://twitter.com/waheed_hanzalah/status/1978760762001641603)
+* [@KartikeyStack does a vertical monitor make it easier to read?](https://twitter.com/waheed_hanzalah/status/1978760548326990185)
