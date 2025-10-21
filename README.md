@@ -60,9 +60,8 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [@ShettyDeveesh electricfox missing](https://twitter.com/waheed_hanzalah/status/1978888992029319467)
-* [@soham_btw lgtm!](https://twitter.com/waheed_hanzalah/status/1978872279242064040)
-* [@KartikeyStack text looks too small tbh. if it can be moved closer to u that would be dope](https://twitter.com/waheed_hanzalah/status/1978771442553573562)
-* [TS PRO TIP:
-Use named object parameters instead of long positional lists. It makes your functions self-documenting, flexible for future changes, and avoids argument order confusion. https://t.co/dlfWM0tYXw](https://twitter.com/waheed_hanzalah/status/1978760762001641603)
-* [@KartikeyStack does a vertical monitor make it easier to read?](https://twitter.com/waheed_hanzalah/status/1978760548326990185)
+* [this was serious https://t.co/4AfNjUnBfT](https://twitter.com/waheed_hanzalah/status/1980378212044829018)
+* [thank god I use vercel and not AWS 😌😌😌😌](https://twitter.com/waheed_hanzalah/status/1980286785923223577)
+* [took a design from X and asked gemini to one shot it. prettigud eh. https://t.co/fjJmEdqmXZ](https://twitter.com/waheed_hanzalah/status/1980005657852973340)
+* [ngl im hooked https://t.co/3Un27hCfYF](https://twitter.com/waheed_hanzalah/status/1979655783198670933)
+* [knowing when to throw an error or swallow it such an important skill. u get to learn something new everytime going thru a complex codebase](https://twitter.com/waheed_hanzalah/status/1979499152754036920)
