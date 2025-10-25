@@ -60,8 +60,9 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [this was serious https://t.co/4AfNjUnBfT](https://twitter.com/waheed_hanzalah/status/1980378212044829018)
-* [thank god I use vercel and not AWS 😌😌😌😌](https://twitter.com/waheed_hanzalah/status/1980286785923223577)
-* [took a design from X and asked gemini to one shot it. prettigud eh. https://t.co/fjJmEdqmXZ](https://twitter.com/waheed_hanzalah/status/1980005657852973340)
-* [ngl im hooked https://t.co/3Un27hCfYF](https://twitter.com/waheed_hanzalah/status/1979655783198670933)
-* [knowing when to throw an error or swallow it such an important skill. u get to learn something new everytime going thru a complex codebase](https://twitter.com/waheed_hanzalah/status/1979499152754036920)
+* [now this is a PORTFOLIO
+https://t.co/fLJdv3JABf](https://twitter.com/waheed_hanzalah/status/1981784189684134184)
+* [@ChiragAgg5k u have to do "git push -f" for it to work properly :P](https://twitter.com/waheed_hanzalah/status/1981671899584409826)
+* [@zaidmukaddam @sciraai neat!](https://twitter.com/waheed_hanzalah/status/1981614051999236349)
+* [@mal_shaik stacked!](https://twitter.com/waheed_hanzalah/status/1981593522403770397)
+* [@DhravyaShah i’m dead](https://twitter.com/waheed_hanzalah/status/1981459016686719060)
