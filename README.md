@@ -60,9 +60,8 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [now this is a PORTFOLIO
-https://t.co/fLJdv3JABf](https://twitter.com/waheed_hanzalah/status/1981784189684134184)
-* [@ChiragAgg5k u have to do "git push -f" for it to work properly :P](https://twitter.com/waheed_hanzalah/status/1981671899584409826)
-* [@zaidmukaddam @sciraai neat!](https://twitter.com/waheed_hanzalah/status/1981614051999236349)
-* [@mal_shaik stacked!](https://twitter.com/waheed_hanzalah/status/1981593522403770397)
-* [@DhravyaShah i’m dead](https://twitter.com/waheed_hanzalah/status/1981459016686719060)
+* [@ShettyDeveesh ngl thats a nice touch](https://twitter.com/waheed_hanzalah/status/1982940445136024000)
+* [@ShettyDeveesh tf](https://twitter.com/waheed_hanzalah/status/1982939352327127480)
+* [i’m gon use pip and requirements.txt https://t.co/nWFqPpjl2W](https://twitter.com/waheed_hanzalah/status/1982878453751062753)
+* [@ShettyDeveesh niceee! have u tried raycast on focus mode tho?](https://twitter.com/waheed_hanzalah/status/1982811267065680007)
+* [@ilavanyajain @KauntiaKetan ketan’s a great engineer. can vouch :)](https://twitter.com/waheed_hanzalah/status/1982339329428160922)
