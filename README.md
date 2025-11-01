@@ -60,8 +60,10 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
+* [@smh_ff @AlbiaHossain @coffee_0708 dedpool 💀](https://twitter.com/waheed_hanzalah/status/1984344874637033772)
+* [@AlbiaHossain @coffee_0708 the ones where one has cancer 🤌🤌](https://twitter.com/waheed_hanzalah/status/1984332767430394281)
+* [list of my recent merged PRs @docsgptai 
+
+polishing the UI and cleaning the codebase ✨✨ https://t.co/Jnb7BNAszf](https://twitter.com/waheed_hanzalah/status/1984331594937876759)
 * [@ShettyDeveesh ngl thats a nice touch](https://twitter.com/waheed_hanzalah/status/1982940445136024000)
 * [@ShettyDeveesh tf](https://twitter.com/waheed_hanzalah/status/1982939352327127480)
-* [i’m gon use pip and requirements.txt https://t.co/nWFqPpjl2W](https://twitter.com/waheed_hanzalah/status/1982878453751062753)
-* [@ShettyDeveesh niceee! have u tried raycast on focus mode tho?](https://twitter.com/waheed_hanzalah/status/1982811267065680007)
-* [@ilavanyajain @KauntiaKetan ketan’s a great engineer. can vouch :)](https://twitter.com/waheed_hanzalah/status/1982339329428160922)
