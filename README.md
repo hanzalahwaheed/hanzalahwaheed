@@ -60,10 +60,8 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [@smh_ff @AlbiaHossain @coffee_0708 dedpool 💀](https://twitter.com/waheed_hanzalah/status/1984344874637033772)
-* [@AlbiaHossain @coffee_0708 the ones where one has cancer 🤌🤌](https://twitter.com/waheed_hanzalah/status/1984332767430394281)
-* [list of my recent merged PRs @docsgptai 
-
-polishing the UI and cleaning the codebase ✨✨ https://t.co/Jnb7BNAszf](https://twitter.com/waheed_hanzalah/status/1984331594937876759)
-* [@ShettyDeveesh ngl thats a nice touch](https://twitter.com/waheed_hanzalah/status/1982940445136024000)
-* [@ShettyDeveesh tf](https://twitter.com/waheed_hanzalah/status/1982939352327127480)
+* [@AlbiaHossain waise ye blue tick kab aaya? :p](https://twitter.com/waheed_hanzalah/status/1985788626685608443)
+* [@SHL0MS thats awesome or im sorry for your loss kinda comments](https://twitter.com/waheed_hanzalah/status/1985782851665850444)
+* [@AlbiaHossain iska link bhejo yaar](https://twitter.com/waheed_hanzalah/status/1985780575039602883)
+* [@mannupaaji biskut kam karna padega](https://twitter.com/waheed_hanzalah/status/1985712694243312120)
+* [@AlbiaHossain affirmative](https://twitter.com/waheed_hanzalah/status/1985632885748220124)
