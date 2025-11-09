@@ -60,8 +60,13 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [@AlbiaHossain waise ye blue tick kab aaya? :p](https://twitter.com/waheed_hanzalah/status/1985788626685608443)
-* [@SHL0MS thats awesome or im sorry for your loss kinda comments](https://twitter.com/waheed_hanzalah/status/1985782851665850444)
-* [@AlbiaHossain iska link bhejo yaar](https://twitter.com/waheed_hanzalah/status/1985780575039602883)
-* [@mannupaaji biskut kam karna padega](https://twitter.com/waheed_hanzalah/status/1985712694243312120)
-* [@AlbiaHossain affirmative](https://twitter.com/waheed_hanzalah/status/1985632885748220124)
+* [@zaidmukaddam @elonmusk https://t.co/JLpJp75W4K](https://twitter.com/waheed_hanzalah/status/1987267755905896889)
+* [referential integrity in pg
+- on delete cascade
+- on delete restrict
+- on delete set null
+- on delete set default '____'](https://twitter.com/waheed_hanzalah/status/1987226818399904091)
+* [Pro tip : open source your whatsapp chats and host on GitHub
+Helps with backup](https://twitter.com/waheed_hanzalah/status/1987044382877622589)
+* [someone add HEROBRINE and I shall play minecraft again https://t.co/YCmnVfvou9](https://twitter.com/waheed_hanzalah/status/1986738485399883864)
+* [nice PRO TIP: change jpegs to webps to reduce bundle sizes in opensource repositories. good one! @KauntiaKetan https://t.co/xWZ92AkbIM](https://twitter.com/waheed_hanzalah/status/1986738068469273061)
