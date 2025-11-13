@@ -60,13 +60,13 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [@zaidmukaddam @elonmusk https://t.co/JLpJp75W4K](https://twitter.com/waheed_hanzalah/status/1987267755905896889)
-* [referential integrity in pg
-- on delete cascade
-- on delete restrict
-- on delete set null
-- on delete set default '____'](https://twitter.com/waheed_hanzalah/status/1987226818399904091)
-* [Pro tip : open source your whatsapp chats and host on GitHub
-Helps with backup](https://twitter.com/waheed_hanzalah/status/1987044382877622589)
-* [someone add HEROBRINE and I shall play minecraft again https://t.co/YCmnVfvou9](https://twitter.com/waheed_hanzalah/status/1986738485399883864)
-* [nice PRO TIP: change jpegs to webps to reduce bundle sizes in opensource repositories. good one! @KauntiaKetan https://t.co/xWZ92AkbIM](https://twitter.com/waheed_hanzalah/status/1986738068469273061)
+* [was struggling with managing date n time at work. found this gem of an article:
+
+https://t.co/0tEkFMYNuE
+
+LEARNT today that you can set different timezones in ur browser for testing:
+devTools -&gt; three dots -&gt; more tools -&gt; sensors -&gt; location dropdown](https://twitter.com/waheed_hanzalah/status/1988695877255680147)
+* [RT @ionleu: the type of sh!t i was doing in 2013 instead of building a startup https://t.co/ObzujHuaHt](https://twitter.com/waheed_hanzalah/status/1988575026464149977)
+* [tf is datetimezone man. hate these kinds of errs.](https://twitter.com/waheed_hanzalah/status/1988305464988496129)
+* [centering divs got me tweaking https://t.co/u2XxMSk6ZP](https://twitter.com/waheed_hanzalah/status/1988268878540271997)
+* [@indilingo 2 with slightly more petals? idk](https://twitter.com/waheed_hanzalah/status/1988261255254340013)
