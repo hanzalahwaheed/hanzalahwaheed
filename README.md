@@ -60,8 +60,9 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [@gkcs_ question: is alex's system design book a worth it read?](https://twitter.com/waheed_hanzalah/status/1990120382586843518)
-* [@kshvbgde youtube rewind](https://twitter.com/waheed_hanzalah/status/1990119825914663302)
-* [goated game. even more goated series. https://t.co/rVqyFQDVvn](https://twitter.com/waheed_hanzalah/status/1990103171587510453)
-* [@webdevcody wb GLM 4.6?](https://twitter.com/waheed_hanzalah/status/1989559140000354453)
-* [@drummatick there was a great video by a youtuber called The Pathwise Project but it got removed....](https://twitter.com/waheed_hanzalah/status/1989465145760997551)
+* [@theo mission accomplished](https://twitter.com/waheed_hanzalah/status/1991476839144124676)
+* [@mehulmpt solid bait. respect.](https://twitter.com/waheed_hanzalah/status/1991475970709266745)
+* [@AndrewYNg solid bait Andrew. almost fell for it.](https://twitter.com/waheed_hanzalah/status/1991439107483152647)
+* [@cursor_ai 
+composerOne cant differentiate bw a boolean and a string https://t.co/MMxa69mCgo](https://twitter.com/waheed_hanzalah/status/1991438230659661880)
+* [@LinkedIn CrossClimb has to be GOTY](https://twitter.com/waheed_hanzalah/status/1991242795344875775)
