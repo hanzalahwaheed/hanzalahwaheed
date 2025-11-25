@@ -60,9 +60,10 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [@theo mission accomplished](https://twitter.com/waheed_hanzalah/status/1991476839144124676)
-* [@mehulmpt solid bait. respect.](https://twitter.com/waheed_hanzalah/status/1991475970709266745)
-* [@AndrewYNg solid bait Andrew. almost fell for it.](https://twitter.com/waheed_hanzalah/status/1991439107483152647)
-* [@cursor_ai 
-composerOne cant differentiate bw a boolean and a string https://t.co/MMxa69mCgo](https://twitter.com/waheed_hanzalah/status/1991438230659661880)
-* [@LinkedIn CrossClimb has to be GOTY](https://twitter.com/waheed_hanzalah/status/1991242795344875775)
+* [https://t.co/2skI73499g
+
+Tried @NotebookLM Video Overview on the above blog. I'm stunned by the quality of this. https://t.co/cYsmiMUSRI](https://twitter.com/waheed_hanzalah/status/1992990883218858421)
+* [@ShettyDeveesh SQL Performance Explained by Markus Winand. I skim random chapters occasionally when struggling with similar problems.](https://twitter.com/waheed_hanzalah/status/1992955712176336908)
+* [indexing &gt;&gt; https://t.co/MJYYnrWVYg](https://twitter.com/waheed_hanzalah/status/1992949305297297570)
+* [@bissuusingh goated ts](https://twitter.com/waheed_hanzalah/status/1992948418671780034)
+* [@ShettyDeveesh @Levelsfyi lmao!](https://twitter.com/waheed_hanzalah/status/1992899390218928473)
