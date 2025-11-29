@@ -60,10 +60,12 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [https://t.co/2skI73499g
+* [time to binge ST5](https://twitter.com/waheed_hanzalah/status/1994541524210884726)
+* [just used @claudeai Opus 4.5 w @cursor_ai
 
-Tried @NotebookLM Video Overview on the above blog. I'm stunned by the quality of this. https://t.co/cYsmiMUSRI](https://twitter.com/waheed_hanzalah/status/1992990883218858421)
-* [@ShettyDeveesh SQL Performance Explained by Markus Winand. I skim random chapters occasionally when struggling with similar problems.](https://twitter.com/waheed_hanzalah/status/1992955712176336908)
-* [indexing &gt;&gt; https://t.co/MJYYnrWVYg](https://twitter.com/waheed_hanzalah/status/1992949305297297570)
-* [@bissuusingh goated ts](https://twitter.com/waheed_hanzalah/status/1992948418671780034)
-* [@ShettyDeveesh @Levelsfyi lmao!](https://twitter.com/waheed_hanzalah/status/1992899390218928473)
+what a combination 🤌🤌🤌](https://twitter.com/waheed_hanzalah/status/1994405625007353859)
+* [https://t.co/q1PY8iKCOL
+
+gold video for mac users. always elated to learn some some new power shortcuts.](https://twitter.com/waheed_hanzalah/status/1994401714347364583)
+* [@AlbiaHossain https://t.co/1ROFCRnpfg](https://twitter.com/waheed_hanzalah/status/1994375842781426028)
+* [@indilingo @viditchess @charmiekapoor hiring a design engineer? 👉👈](https://twitter.com/waheed_hanzalah/status/1994360204515742173)
