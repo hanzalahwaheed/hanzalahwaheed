@@ -60,12 +60,8 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [time to binge ST5](https://twitter.com/waheed_hanzalah/status/1994541524210884726)
-* [just used @claudeai Opus 4.5 w @cursor_ai
-
-what a combination 🤌🤌🤌](https://twitter.com/waheed_hanzalah/status/1994405625007353859)
-* [https://t.co/q1PY8iKCOL
-
-gold video for mac users. always elated to learn some some new power shortcuts.](https://twitter.com/waheed_hanzalah/status/1994401714347364583)
-* [@AlbiaHossain https://t.co/1ROFCRnpfg](https://twitter.com/waheed_hanzalah/status/1994375842781426028)
-* [@indilingo @viditchess @charmiekapoor hiring a design engineer? 👉👈](https://twitter.com/waheed_hanzalah/status/1994360204515742173)
+* [@shreyacasmalert always grateful for my seniors at work giving me space to explore](https://twitter.com/waheed_hanzalah/status/1995233183508701606)
+* [any1 else rooting for Max to win the championship?](https://twitter.com/waheed_hanzalah/status/1995232688379420881)
+* [@KauntiaKetan it’s not exactly a VPN so such limit afaik and ur able to access other sites via it](https://twitter.com/waheed_hanzalah/status/1994709365857943874)
+* [underrated tool https://t.co/pIN49oLshd](https://twitter.com/waheed_hanzalah/status/1994705571967287633)
+* [@vibingmonk lmao](https://twitter.com/waheed_hanzalah/status/1994704604752482511)
