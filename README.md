@@ -60,8 +60,8 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [@shreyacasmalert always grateful for my seniors at work giving me space to explore](https://twitter.com/waheed_hanzalah/status/1995233183508701606)
-* [any1 else rooting for Max to win the championship?](https://twitter.com/waheed_hanzalah/status/1995232688379420881)
-* [@KauntiaKetan it’s not exactly a VPN so such limit afaik and ur able to access other sites via it](https://twitter.com/waheed_hanzalah/status/1994709365857943874)
-* [underrated tool https://t.co/pIN49oLshd](https://twitter.com/waheed_hanzalah/status/1994705571967287633)
-* [@vibingmonk lmao](https://twitter.com/waheed_hanzalah/status/1994704604752482511)
+* [@Shushmitaaa we outliers](https://twitter.com/waheed_hanzalah/status/1996615870840533234)
+* [RT @Shushmitaaa: Me when I look at everyone’s Spotify wrapped lists. https://t.co/wtBhzkDOW7](https://twitter.com/waheed_hanzalah/status/1996615788963475634)
+* [@AlbiaHossain sort out the svg imports](https://twitter.com/waheed_hanzalah/status/1996608775776596289)
+* [beautiful https://t.co/EJjPVOp5cc](https://twitter.com/waheed_hanzalah/status/1996606499687428367)
+* [accidentally imported TSVectorFiled from pewee.](https://twitter.com/waheed_hanzalah/status/1996572227094131180)
