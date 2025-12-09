@@ -60,8 +60,8 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [@Shushmitaaa we outliers](https://twitter.com/waheed_hanzalah/status/1996615870840533234)
-* [RT @Shushmitaaa: Me when I look at everyone’s Spotify wrapped lists. https://t.co/wtBhzkDOW7](https://twitter.com/waheed_hanzalah/status/1996615788963475634)
-* [@AlbiaHossain sort out the svg imports](https://twitter.com/waheed_hanzalah/status/1996608775776596289)
-* [beautiful https://t.co/EJjPVOp5cc](https://twitter.com/waheed_hanzalah/status/1996606499687428367)
-* [accidentally imported TSVectorFiled from pewee.](https://twitter.com/waheed_hanzalah/status/1996572227094131180)
+* [@ciguleva love ur perplexity work btw](https://twitter.com/waheed_hanzalah/status/1998187542819316138)
+* [@archiexzzz I like their analogy of F1 efficiency](https://twitter.com/waheed_hanzalah/status/1998186714582614284)
+* [✨✨ https://t.co/QmPXpSmjMa](https://twitter.com/waheed_hanzalah/status/1998109924933648615)
+* [there it is https://t.co/26HVIq1qJg](https://twitter.com/waheed_hanzalah/status/1998044030622634180)
+* [@AnxKhn i’ve heard fedora runs great on an m4 😃](https://twitter.com/waheed_hanzalah/status/1998034196552663170)
