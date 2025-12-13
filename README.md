@@ -60,8 +60,10 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [@ciguleva love ur perplexity work btw](https://twitter.com/waheed_hanzalah/status/1998187542819316138)
-* [@archiexzzz I like their analogy of F1 efficiency](https://twitter.com/waheed_hanzalah/status/1998186714582614284)
-* [✨✨ https://t.co/QmPXpSmjMa](https://twitter.com/waheed_hanzalah/status/1998109924933648615)
-* [there it is https://t.co/26HVIq1qJg](https://twitter.com/waheed_hanzalah/status/1998044030622634180)
-* [@AnxKhn i’ve heard fedora runs great on an m4 😃](https://twitter.com/waheed_hanzalah/status/1998034196552663170)
+* [WHERE CAN I LEARN THIS TYPE OF DESIGN UI FRONTEND WHATEVER U WANNA CALL IT? 
+
+https://t.co/DRTvCCwvsk](https://twitter.com/waheed_hanzalah/status/1999595057100607648)
+* [@ashpande18 @pointblank_club @mhrd_innovation @SkySingh04 LFG!](https://twitter.com/waheed_hanzalah/status/1999585892005216539)
+* [gotta play claire obscure expedition 33](https://twitter.com/waheed_hanzalah/status/1999411927815192907)
+* [@cursor_ai is pretty goated for this! https://t.co/2Ko0PpBnQX](https://twitter.com/waheed_hanzalah/status/1999389379366928870)
+* [@zaidmukaddam 😭😭](https://twitter.com/waheed_hanzalah/status/1999388605396230352)
