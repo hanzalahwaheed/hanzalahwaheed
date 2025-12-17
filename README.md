@@ -60,10 +60,10 @@ I take my coffee black, my code cleaner, and my anime extra dramatic.
 
 <!-- latest-tweets-start -->
 
-* [WHERE CAN I LEARN THIS TYPE OF DESIGN UI FRONTEND WHATEVER U WANNA CALL IT? 
+* [@ajeetunc kreo chimera](https://twitter.com/waheed_hanzalah/status/2000683693761860007)
+* [@ciguleva waao!](https://twitter.com/waheed_hanzalah/status/2000500622056194133)
+* [@zaidmukaddam @sciraai @grok nice hack using grok instead of api](https://twitter.com/waheed_hanzalah/status/2000340295175877012)
+* [solid drop!
 
-https://t.co/DRTvCCwvsk](https://twitter.com/waheed_hanzalah/status/1999595057100607648)
-* [@ashpande18 @pointblank_club @mhrd_innovation @SkySingh04 LFG!](https://twitter.com/waheed_hanzalah/status/1999585892005216539)
-* [gotta play claire obscure expedition 33](https://twitter.com/waheed_hanzalah/status/1999411927815192907)
-* [@cursor_ai is pretty goated for this! https://t.co/2Ko0PpBnQX](https://twitter.com/waheed_hanzalah/status/1999389379366928870)
-* [@zaidmukaddam 😭😭](https://twitter.com/waheed_hanzalah/status/1999388605396230352)
+https://t.co/msy4CfdkLN https://t.co/fq7FUcdgS4](https://twitter.com/waheed_hanzalah/status/2000340022151762324)
+* [@ShettyDeveesh strongly think u should be posting on twitter. linkedin isnt enough](https://twitter.com/waheed_hanzalah/status/2000254882234896423)
