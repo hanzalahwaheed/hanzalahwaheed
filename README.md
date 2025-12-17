@@ -11,7 +11,7 @@
 
 <div align="center">
    <h3>💻 Software Development Engineer | 🛸 Dubai</h3>
-   <h4>⚡ I build stuff, solve puzzles, and grind games 🎮</h4>
+   <h4>⚡ I build stuff, watch anime, and grind games 🎮</h4>
 </div>
 
 ---
@@ -42,10 +42,6 @@
 </p>
 
 ---
-
-#### Fun Fact:
-I take my coffee black, my code cleaner, and my anime extra dramatic.
-
 
 ### 📊 My Stats
 
