@@ -56,10 +56,15 @@
 
 <!-- latest-tweets-start -->
 
-* [@ajeetunc kreo chimera](https://twitter.com/waheed_hanzalah/status/2000683693761860007)
-* [@ciguleva waao!](https://twitter.com/waheed_hanzalah/status/2000500622056194133)
-* [@zaidmukaddam @sciraai @grok nice hack using grok instead of api](https://twitter.com/waheed_hanzalah/status/2000340295175877012)
-* [solid drop!
+* [https://t.co/7ClYzA108e
 
-https://t.co/msy4CfdkLN https://t.co/fq7FUcdgS4](https://twitter.com/waheed_hanzalah/status/2000340022151762324)
-* [@ShettyDeveesh strongly think u should be posting on twitter. linkedin isnt enough](https://twitter.com/waheed_hanzalah/status/2000254882234896423)
+TSMC - Chips
+ASML - Machine for said Chips
+Zeiss - Lenses for said Machines
+Trumpf - Lasers for said Machine](https://twitter.com/waheed_hanzalah/status/2002491895541534968)
+* [RT @AnxKhn: so @Levelsfyi annual compensation report is out, and in India 🇮🇳 none of the top 5 paying companies are FAANG.
+
+Looks like its…](https://twitter.com/waheed_hanzalah/status/2002313003828469791)
+* [@AnxKhn @Levelsfyi about time!](https://twitter.com/waheed_hanzalah/status/2002312961004552284)
+* [it’s venice out here in sharjah! 😆 https://t.co/VrFnsGu152](https://twitter.com/waheed_hanzalah/status/2001923145616535678)
+* [@KauntiaKetan ah okay!](https://twitter.com/waheed_hanzalah/status/2001922052618621439)
