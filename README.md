@@ -56,13 +56,10 @@
 
 <!-- latest-tweets-start -->
 
-* [@boristane @theo deserved](https://twitter.com/waheed_hanzalah/status/2007920817745891815)
-* [PS. both Turbopack and SWC are built on Rust. hence the crazy speeds https://t.co/0FddcVingg](https://twitter.com/waheed_hanzalah/status/2007894686187553102)
-* [@KashifShaghaf 😭😭](https://twitter.com/waheed_hanzalah/status/2007718280514174997)
-* [yall using TS &amp; nextjs, do you know the difference b/w building and transpiling?
-
--transpiling is converting TS/JSX into JS (file level)
--building is wiring the entire app together, resolving deps, bundling, optimizing output
-
-nextjs16 uses SWC to transpile and turbopack tp build](https://twitter.com/waheed_hanzalah/status/2007547844685869394)
-* [I think i’m getting better at photolithography 😌😌😌 https://t.co/86ONOeilAE](https://twitter.com/waheed_hanzalah/status/2007462726482710804)
+* [ive been binging @veritasium videos recently. such a GREAT channel!! we all need critical thinking when over-usage of LLMs is making us numb to it.](https://twitter.com/waheed_hanzalah/status/2009171539581915180)
+* [@KauntiaKetan yeah that makes sense](https://twitter.com/waheed_hanzalah/status/2009028430181093714)
+* [🫥🫥🫥 https://t.co/q84rCpuVRD](https://twitter.com/waheed_hanzalah/status/2009026634649882676)
+* [RT @IndraVahan: LEARN CARPENTRY
+LEARN PLUMBING
+LEARN WELDING](https://twitter.com/waheed_hanzalah/status/2008999637974438342)
+* [v2 cooking... https://t.co/LMXqhkRlfM](https://twitter.com/waheed_hanzalah/status/2008964614294540726)
