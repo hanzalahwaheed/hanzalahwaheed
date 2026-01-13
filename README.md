@@ -56,10 +56,8 @@
 
 <!-- latest-tweets-start -->
 
-* [ive been binging @veritasium videos recently. such a GREAT channel!! we all need critical thinking when over-usage of LLMs is making us numb to it.](https://twitter.com/waheed_hanzalah/status/2009171539581915180)
-* [@KauntiaKetan yeah that makes sense](https://twitter.com/waheed_hanzalah/status/2009028430181093714)
-* [🫥🫥🫥 https://t.co/q84rCpuVRD](https://twitter.com/waheed_hanzalah/status/2009026634649882676)
-* [RT @IndraVahan: LEARN CARPENTRY
-LEARN PLUMBING
-LEARN WELDING](https://twitter.com/waheed_hanzalah/status/2008999637974438342)
-* [v2 cooking... https://t.co/LMXqhkRlfM](https://twitter.com/waheed_hanzalah/status/2008964614294540726)
+* [RT @SirFahoD: People’s Dreams https://t.co/jzaehrEY6y](https://twitter.com/waheed_hanzalah/status/2010829923309736373)
+* [debugging my embeddings https://t.co/9t7B3ZyS4V](https://twitter.com/waheed_hanzalah/status/2010829067357180219)
+* [@animetv_jp found this PEAK](https://twitter.com/waheed_hanzalah/status/2010621854915154152)
+* [@zaidmukaddam love the name Alam](https://twitter.com/waheed_hanzalah/status/2010289023991054655)
+* [LMAO I ask about reate limits on google AI studio and BRO gives me the details about openAIs GPT LMAO https://t.co/iRREvbi1e0](https://twitter.com/waheed_hanzalah/status/2010288801500012995)
