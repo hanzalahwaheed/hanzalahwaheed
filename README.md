@@ -56,8 +56,10 @@
 
 <!-- latest-tweets-start -->
 
-* [RT @SirFahoD: People’s Dreams https://t.co/jzaehrEY6y](https://twitter.com/waheed_hanzalah/status/2010829923309736373)
-* [debugging my embeddings https://t.co/9t7B3ZyS4V](https://twitter.com/waheed_hanzalah/status/2010829067357180219)
-* [@animetv_jp found this PEAK](https://twitter.com/waheed_hanzalah/status/2010621854915154152)
-* [@zaidmukaddam love the name Alam](https://twitter.com/waheed_hanzalah/status/2010289023991054655)
-* [LMAO I ask about reate limits on google AI studio and BRO gives me the details about openAIs GPT LMAO https://t.co/iRREvbi1e0](https://twitter.com/waheed_hanzalah/status/2010288801500012995)
+* [@nikitabier alhamdulillah fr](https://twitter.com/waheed_hanzalah/status/2011873604485726366)
+* [https://t.co/UEPywLwmLX
+
+if there isnt already, there should be a skill for agents to download the latest npm packages and resolve conflicting ones properly](https://twitter.com/waheed_hanzalah/status/2011835448289870274)
+* [neat https://t.co/bECdlxOkIy](https://twitter.com/waheed_hanzalah/status/2011807251674337598)
+* [@manthanguptaa LFG another banger](https://twitter.com/waheed_hanzalah/status/2011432570211438906)
+* [@ShettyDeveesh thanks for sharing!](https://twitter.com/waheed_hanzalah/status/2011366596628119878)
