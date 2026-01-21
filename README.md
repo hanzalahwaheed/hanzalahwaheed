@@ -56,10 +56,12 @@
 
 <!-- latest-tweets-start -->
 
-* [@nikitabier alhamdulillah fr](https://twitter.com/waheed_hanzalah/status/2011873604485726366)
-* [https://t.co/UEPywLwmLX
+* [@Saloni_who cant call urself a linux user if u havent broken ur GUI atleast once 😆](https://twitter.com/waheed_hanzalah/status/2013356640758890968)
+* [@KashifShaghaf dp mein fibonacci is arrays only 👽](https://twitter.com/waheed_hanzalah/status/2013214520282624417)
+* [Last month, I had the chance to deep dive into Postgres while working on full text search.
 
-if there isnt already, there should be a skill for agents to download the latest npm packages and resolve conflicting ones properly](https://twitter.com/waheed_hanzalah/status/2011835448289870274)
-* [neat https://t.co/bECdlxOkIy](https://twitter.com/waheed_hanzalah/status/2011807251674337598)
-* [@manthanguptaa LFG another banger](https://twitter.com/waheed_hanzalah/status/2011432570211438906)
-* [@ShettyDeveesh thanks for sharing!](https://twitter.com/waheed_hanzalah/status/2011366596628119878)
+I wrote a short case study on what went right, what went wrong, and what I learned along the way.
+
+Link: https://t.co/pjllGD0PWJ](https://twitter.com/waheed_hanzalah/status/2013134232403493072)
+* [@manthanguptaa gotta buy another monitor for this 😆](https://twitter.com/waheed_hanzalah/status/2012967782795628809)
+* [Sunday Morning ✨ https://t.co/YEKIMF8PLG](https://twitter.com/waheed_hanzalah/status/2012809619773763860)
