@@ -56,12 +56,8 @@
 
 <!-- latest-tweets-start -->
 
-* [@Saloni_who cant call urself a linux user if u havent broken ur GUI atleast once 😆](https://twitter.com/waheed_hanzalah/status/2013356640758890968)
-* [@KashifShaghaf dp mein fibonacci is arrays only 👽](https://twitter.com/waheed_hanzalah/status/2013214520282624417)
-* [Last month, I had the chance to deep dive into Postgres while working on full text search.
-
-I wrote a short case study on what went right, what went wrong, and what I learned along the way.
-
-Link: https://t.co/pjllGD0PWJ](https://twitter.com/waheed_hanzalah/status/2013134232403493072)
-* [@manthanguptaa gotta buy another monitor for this 😆](https://twitter.com/waheed_hanzalah/status/2012967782795628809)
-* [Sunday Morning ✨ https://t.co/YEKIMF8PLG](https://twitter.com/waheed_hanzalah/status/2012809619773763860)
+* [@manthanguptaa great read!](https://twitter.com/waheed_hanzalah/status/2015095177439031746)
+* [@gdb @arpit_bhayani tagda repost ayaa hai sirji](https://twitter.com/waheed_hanzalah/status/2014895345734717606)
+* [@zaidmukaddam @sciraai sweet 🤌](https://twitter.com/waheed_hanzalah/status/2014739332096262495)
+* [@antigravity fix ur shit dawg](https://twitter.com/waheed_hanzalah/status/2014274325613068690)
+* [a quick peek at our new agentic ai assistant https://t.co/VhKa2K4RqZ](https://twitter.com/waheed_hanzalah/status/2013995869708906544)
