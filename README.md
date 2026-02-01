@@ -56,8 +56,8 @@
 
 <!-- latest-tweets-start -->
 
-* [@manthanguptaa great read!](https://twitter.com/waheed_hanzalah/status/2015095177439031746)
-* [@gdb @arpit_bhayani tagda repost ayaa hai sirji](https://twitter.com/waheed_hanzalah/status/2014895345734717606)
-* [@zaidmukaddam @sciraai sweet 🤌](https://twitter.com/waheed_hanzalah/status/2014739332096262495)
-* [@antigravity fix ur shit dawg](https://twitter.com/waheed_hanzalah/status/2014274325613068690)
-* [a quick peek at our new agentic ai assistant https://t.co/VhKa2K4RqZ](https://twitter.com/waheed_hanzalah/status/2013995869708906544)
+* [@leylndd Way to go!!](https://twitter.com/waheed_hanzalah/status/2017691417582440948)
+* [a minor detail that probably cause confusion to others as well is that the Workflow searchbar for openai Traces needs full workflow names. it doesn't work with partial wordings haha https://t.co/BysHB3eLhE](https://twitter.com/waheed_hanzalah/status/2017271641999552965)
+* [@openclaw charizard type shit](https://twitter.com/waheed_hanzalah/status/2017186635813961887)
+* [ah thanks for fixing my bug @GeminiApp @antigravity https://t.co/xAiQKVKsGc](https://twitter.com/waheed_hanzalah/status/2016983583878201624)
+* [HOW TF DO U DEBUG AN INTERMITTENT ERROR MAN. these are times when u hate coding](https://twitter.com/waheed_hanzalah/status/2016983250967941181)
