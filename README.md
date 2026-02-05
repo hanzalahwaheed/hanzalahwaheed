@@ -56,8 +56,10 @@
 
 <!-- latest-tweets-start -->
 
-* [@leylndd Way to go!!](https://twitter.com/waheed_hanzalah/status/2017691417582440948)
-* [a minor detail that probably cause confusion to others as well is that the Workflow searchbar for openai Traces needs full workflow names. it doesn't work with partial wordings haha https://t.co/BysHB3eLhE](https://twitter.com/waheed_hanzalah/status/2017271641999552965)
-* [@openclaw charizard type shit](https://twitter.com/waheed_hanzalah/status/2017186635813961887)
-* [ah thanks for fixing my bug @GeminiApp @antigravity https://t.co/xAiQKVKsGc](https://twitter.com/waheed_hanzalah/status/2016983583878201624)
-* [HOW TF DO U DEBUG AN INTERMITTENT ERROR MAN. these are times when u hate coding](https://twitter.com/waheed_hanzalah/status/2016983250967941181)
+* [trying @OpenAI Codex on mac for improving SEO on my blog.
+
+https://t.co/olR3yPCyBG https://t.co/cn0PseVki9](https://twitter.com/waheed_hanzalah/status/2019091599557562487)
+* [@ShettyDeveesh ah ptsd](https://twitter.com/waheed_hanzalah/status/2019072197508354492)
+* [@ShettyDeveesh that calculator is such an asset haha](https://twitter.com/waheed_hanzalah/status/2019069507860349104)
+* [@arpit_bhayani https://t.co/jbUtlQYoA0](https://twitter.com/waheed_hanzalah/status/2018726713707184353)
+* [@KashifShaghaf company mein dabdaba banao](https://twitter.com/waheed_hanzalah/status/2018674763044991078)
