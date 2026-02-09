@@ -56,10 +56,8 @@
 
 <!-- latest-tweets-start -->
 
-* [trying @OpenAI Codex on mac for improving SEO on my blog.
-
-https://t.co/olR3yPCyBG https://t.co/cn0PseVki9](https://twitter.com/waheed_hanzalah/status/2019091599557562487)
-* [@ShettyDeveesh ah ptsd](https://twitter.com/waheed_hanzalah/status/2019072197508354492)
-* [@ShettyDeveesh that calculator is such an asset haha](https://twitter.com/waheed_hanzalah/status/2019069507860349104)
-* [@arpit_bhayani https://t.co/jbUtlQYoA0](https://twitter.com/waheed_hanzalah/status/2018726713707184353)
-* [@KashifShaghaf company mein dabdaba banao](https://twitter.com/waheed_hanzalah/status/2018674763044991078)
+* [@jia_seed @mal_shaik invested](https://twitter.com/waheed_hanzalah/status/2020600092538060934)
+* [@mal_shaik inshallah habibi](https://twitter.com/waheed_hanzalah/status/2020599636793393319)
+* [tee command to log dev mode logs](https://twitter.com/waheed_hanzalah/status/2019702019788017752)
+* [@anamika_agg i wanna see how this turns out! atb!](https://twitter.com/waheed_hanzalah/status/2019499634977304963)
+* [i adore their design studio. thanks for this https://t.co/siKMZ39tCz](https://twitter.com/waheed_hanzalah/status/2019497498629525664)
