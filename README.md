@@ -56,8 +56,8 @@
 
 <!-- latest-tweets-start -->
 
-* [@jia_seed @mal_shaik invested](https://twitter.com/waheed_hanzalah/status/2020600092538060934)
-* [@mal_shaik inshallah habibi](https://twitter.com/waheed_hanzalah/status/2020599636793393319)
-* [tee command to log dev mode logs](https://twitter.com/waheed_hanzalah/status/2019702019788017752)
-* [@anamika_agg i wanna see how this turns out! atb!](https://twitter.com/waheed_hanzalah/status/2019499634977304963)
-* [i adore their design studio. thanks for this https://t.co/siKMZ39tCz](https://twitter.com/waheed_hanzalah/status/2019497498629525664)
+* [RT @strawhatzuffy: Been saying this for years One Piece was never just about pirates https://t.co/Bx1Ej3rc5F](https://twitter.com/waheed_hanzalah/status/2021677674268438772)
+* [@excalidraw @AnthropicAI @claudeai this is goated.](https://twitter.com/waheed_hanzalah/status/2021309624918413366)
+* [@delba_oliveira beckham got me 😭](https://twitter.com/waheed_hanzalah/status/2021125753363103966)
+* [@ShettyDeveesh better than claude code w opus4.5](https://twitter.com/waheed_hanzalah/status/2021114951910424928)
+* [@ShettyDeveesh tried codex w 5.3?](https://twitter.com/waheed_hanzalah/status/2020985389708869642)
