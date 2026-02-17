@@ -56,8 +56,10 @@
 
 <!-- latest-tweets-start -->
 
-* [RT @strawhatzuffy: Been saying this for years One Piece was never just about pirates https://t.co/Bx1Ej3rc5F](https://twitter.com/waheed_hanzalah/status/2021677674268438772)
-* [@excalidraw @AnthropicAI @claudeai this is goated.](https://twitter.com/waheed_hanzalah/status/2021309624918413366)
-* [@delba_oliveira beckham got me 😭](https://twitter.com/waheed_hanzalah/status/2021125753363103966)
-* [@ShettyDeveesh better than claude code w opus4.5](https://twitter.com/waheed_hanzalah/status/2021114951910424928)
-* [@ShettyDeveesh tried codex w 5.3?](https://twitter.com/waheed_hanzalah/status/2020985389708869642)
+* [@FathomDotVideo is a great new app for anyone like myself who’s on a lot of @Zoom meetings. It’s completely changed how I take notes. Saves me a ton of time and stress!
+
+Sign up with my referral link to skip the waitlist https://t.co/Lx5WXBZk5u](https://twitter.com/waheed_hanzalah/status/2023345951440863638)
+* [@AnxKhn will give complete access to claude code n ask it to do it 😌😌](https://twitter.com/waheed_hanzalah/status/2023317461693813035)
+* [@theo theo migration count: 16](https://twitter.com/waheed_hanzalah/status/2023278522392035467)
+* [faxx https://t.co/BUl2sdBLA2](https://twitter.com/waheed_hanzalah/status/2023110961306178040)
+* [@HungaryBased @grok fact check this](https://twitter.com/waheed_hanzalah/status/2022863484732784954)
