@@ -56,10 +56,8 @@
 
 <!-- latest-tweets-start -->
 
-* [@FathomDotVideo is a great new app for anyone like myself who’s on a lot of @Zoom meetings. It’s completely changed how I take notes. Saves me a ton of time and stress!
-
-Sign up with my referral link to skip the waitlist https://t.co/Lx5WXBZk5u](https://twitter.com/waheed_hanzalah/status/2023345951440863638)
-* [@AnxKhn will give complete access to claude code n ask it to do it 😌😌](https://twitter.com/waheed_hanzalah/status/2023317461693813035)
-* [@theo theo migration count: 16](https://twitter.com/waheed_hanzalah/status/2023278522392035467)
-* [faxx https://t.co/BUl2sdBLA2](https://twitter.com/waheed_hanzalah/status/2023110961306178040)
-* [@HungaryBased @grok fact check this](https://twitter.com/waheed_hanzalah/status/2022863484732784954)
+* [@KauntiaKetan eh ignore. just me ranting](https://twitter.com/waheed_hanzalah/status/2024932426192212148)
+* [@adamdotdev relatable af](https://twitter.com/waheed_hanzalah/status/2024808653531025701)
+* [the passive agressive comments in the indian oss community is weird af](https://twitter.com/waheed_hanzalah/status/2024804851499311177)
+* [day 120 of explaining for this simple UI feature to work, we need to work on the backend](https://twitter.com/waheed_hanzalah/status/2024781505760014447)
+* [still going through the first one! https://t.co/g7sX4ygJo0](https://twitter.com/waheed_hanzalah/status/2024586796458528993)
