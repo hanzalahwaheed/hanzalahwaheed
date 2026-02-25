@@ -56,8 +56,8 @@
 
 <!-- latest-tweets-start -->
 
-* [@KauntiaKetan eh ignore. just me ranting](https://twitter.com/waheed_hanzalah/status/2024932426192212148)
-* [@adamdotdev relatable af](https://twitter.com/waheed_hanzalah/status/2024808653531025701)
-* [the passive agressive comments in the indian oss community is weird af](https://twitter.com/waheed_hanzalah/status/2024804851499311177)
-* [day 120 of explaining for this simple UI feature to work, we need to work on the backend](https://twitter.com/waheed_hanzalah/status/2024781505760014447)
-* [still going through the first one! https://t.co/g7sX4ygJo0](https://twitter.com/waheed_hanzalah/status/2024586796458528993)
+* [@KauntiaKetan em dashes in 2026 is crazy work](https://twitter.com/waheed_hanzalah/status/2026284519838667240)
+* [RT @AnxKhn: I'm glad silicon valley prepared me for this https://t.co/UHaZxeKBCS](https://twitter.com/waheed_hanzalah/status/2026207512744407411)
+* [@AnxKhn lowkey feels like musk himself wrote that](https://twitter.com/waheed_hanzalah/status/2026040792570306584)
+* [how the turn tables are turning phew phew https://t.co/wANJiYXD6W](https://twitter.com/waheed_hanzalah/status/2026040490844704918)
+* [@theantijobboard https://t.co/PGFnRCHuNB](https://twitter.com/waheed_hanzalah/status/2025990722177122770)
