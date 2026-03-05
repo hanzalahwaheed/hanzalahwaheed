@@ -56,8 +56,12 @@
 
 <!-- latest-tweets-start -->
 
-* [@KauntiaKetan em dashes in 2026 is crazy work](https://twitter.com/waheed_hanzalah/status/2026284519838667240)
-* [RT @AnxKhn: I'm glad silicon valley prepared me for this https://t.co/UHaZxeKBCS](https://twitter.com/waheed_hanzalah/status/2026207512744407411)
-* [@AnxKhn lowkey feels like musk himself wrote that](https://twitter.com/waheed_hanzalah/status/2026040792570306584)
-* [how the turn tables are turning phew phew https://t.co/wANJiYXD6W](https://twitter.com/waheed_hanzalah/status/2026040490844704918)
-* [@theantijobboard https://t.co/PGFnRCHuNB](https://twitter.com/waheed_hanzalah/status/2025990722177122770)
+* [@AnxKhn @Apple wohooo! les goo apple! 😃😃😃](https://twitter.com/waheed_hanzalah/status/2029249136042897799)
+* [#done4theday https://t.co/LYPgrm2icZ](https://twitter.com/waheed_hanzalah/status/2029184555706630394)
+* [AI agents make exploring dead ends cheap.](https://twitter.com/waheed_hanzalah/status/2029147569117655373)
+* [do bhai, dono tabahi https://t.co/D1oqTiNFkR](https://twitter.com/waheed_hanzalah/status/2028750359351759103)
+* [the xz backdoor that shocked the world in 2021! I've heard lots of talks about this in FOSS communities, webinars etc. 
+
+Now @veritasium has released a brilliant video on it. Visualising all of this and making it all available to the non-technical people!
+
+https://t.co/mewozwbJiq](https://twitter.com/waheed_hanzalah/status/2027874353615147414)
