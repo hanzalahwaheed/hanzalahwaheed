@@ -56,12 +56,10 @@
 
 <!-- latest-tweets-start -->
 
-* [@AnxKhn @Apple wohooo! les goo apple! 😃😃😃](https://twitter.com/waheed_hanzalah/status/2029249136042897799)
-* [#done4theday https://t.co/LYPgrm2icZ](https://twitter.com/waheed_hanzalah/status/2029184555706630394)
-* [AI agents make exploring dead ends cheap.](https://twitter.com/waheed_hanzalah/status/2029147569117655373)
-* [do bhai, dono tabahi https://t.co/D1oqTiNFkR](https://twitter.com/waheed_hanzalah/status/2028750359351759103)
-* [the xz backdoor that shocked the world in 2021! I've heard lots of talks about this in FOSS communities, webinars etc. 
+* [@SyntheVisuals hells paradise spotted](https://twitter.com/waheed_hanzalah/status/2030659282249699805)
+* [This article underscores the importance of apples.
 
-Now @veritasium has released a brilliant video on it. Visualising all of this and making it all available to the non-technical people!
-
-https://t.co/mewozwbJiq](https://twitter.com/waheed_hanzalah/status/2027874353615147414)
+underscore can be used as a verb as well.](https://twitter.com/waheed_hanzalah/status/2030577986555314235)
+* [claude code + clash royale is a GOATED combo](https://twitter.com/waheed_hanzalah/status/2030398194275037594)
+* [WORD. https://t.co/XsGMh2nwQM](https://twitter.com/waheed_hanzalah/status/2030344351730319510)
+* [@ShettyDeveesh @micro_degree LFG](https://twitter.com/waheed_hanzalah/status/2029933727565103221)
