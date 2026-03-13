@@ -56,10 +56,8 @@
 
 <!-- latest-tweets-start -->
 
-* [@SyntheVisuals hells paradise spotted](https://twitter.com/waheed_hanzalah/status/2030659282249699805)
-* [This article underscores the importance of apples.
-
-underscore can be used as a verb as well.](https://twitter.com/waheed_hanzalah/status/2030577986555314235)
-* [claude code + clash royale is a GOATED combo](https://twitter.com/waheed_hanzalah/status/2030398194275037594)
-* [WORD. https://t.co/XsGMh2nwQM](https://twitter.com/waheed_hanzalah/status/2030344351730319510)
-* [@ShettyDeveesh @micro_degree LFG](https://twitter.com/waheed_hanzalah/status/2029933727565103221)
+* [@ycocerious clash](https://twitter.com/waheed_hanzalah/status/2032145604311437640)
+* [@prathamgrv what document rendered is that? looks clean!](https://twitter.com/waheed_hanzalah/status/2032094550622421356)
+* [idk if its just me but those eyes lowkey feel like im judging you hard. and now gemini is ragebaiting me https://t.co/nnF0saYG2U](https://twitter.com/waheed_hanzalah/status/2032093299339849955)
+* [I do my dirtiest work in postgres JSONB. learnt that jsonb_set() can make that work a little easier by doing atomic updates at the db level for the json data.](https://twitter.com/waheed_hanzalah/status/2032085805066568115)
+* [@ShettyDeveesh Higher weight - Higher Rep boss](https://twitter.com/waheed_hanzalah/status/2032085452409487386)
