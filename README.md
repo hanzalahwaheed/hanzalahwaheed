@@ -56,8 +56,8 @@
 
 <!-- latest-tweets-start -->
 
-* [time to cook! https://t.co/4YyN4X0q73](https://twitter.com/waheed_hanzalah/status/2033307540436742270)
-* [@KauntiaKetan they convert after 6 months afaik. friend of mine works there](https://twitter.com/waheed_hanzalah/status/2032810898478477516)
-* [my one piece 😔 https://t.co/Nui8qxXIOY](https://twitter.com/waheed_hanzalah/status/2032764906575958057)
-* [AI is ruining open source https://t.co/JtV3LcwctA via @YouTube](https://twitter.com/waheed_hanzalah/status/2032639764533551424)
-* [@ycocerious clash](https://twitter.com/waheed_hanzalah/status/2032145604311437640)
+* [RT @AnxKhn: You need to be chronically online to get this. I love it.](https://twitter.com/waheed_hanzalah/status/2035141561026322455)
+* [@AnxKhn real lmao](https://twitter.com/waheed_hanzalah/status/2035141551354257635)
+* [i gotta read dune before the 3rd movie is out. ps, i haven’t even watched a single movie yet. respect to dune fandom for not giving out any spoilers. https://t.co/AZxHw5Nqmn](https://twitter.com/waheed_hanzalah/status/2035139519704613282)
+* [goat https://t.co/GoKiVBp8YW](https://twitter.com/waheed_hanzalah/status/2035122702659592697)
+* [@hnasr Eid Mubarak Hussein!](https://twitter.com/waheed_hanzalah/status/2034567831636095374)
