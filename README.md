@@ -56,8 +56,8 @@
 
 <!-- latest-tweets-start -->
 
+* [@ShettyDeveesh wow wow](https://twitter.com/waheed_hanzalah/status/2035570808089964973)
+* [E Mubz gng 🫂🥀](https://twitter.com/waheed_hanzalah/status/2035303945833427278)
 * [RT @AnxKhn: You need to be chronically online to get this. I love it.](https://twitter.com/waheed_hanzalah/status/2035141561026322455)
 * [@AnxKhn real lmao](https://twitter.com/waheed_hanzalah/status/2035141551354257635)
 * [i gotta read dune before the 3rd movie is out. ps, i haven’t even watched a single movie yet. respect to dune fandom for not giving out any spoilers. https://t.co/AZxHw5Nqmn](https://twitter.com/waheed_hanzalah/status/2035139519704613282)
-* [goat https://t.co/GoKiVBp8YW](https://twitter.com/waheed_hanzalah/status/2035122702659592697)
-* [@hnasr Eid Mubarak Hussein!](https://twitter.com/waheed_hanzalah/status/2034567831636095374)
