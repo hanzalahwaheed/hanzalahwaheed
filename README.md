@@ -56,8 +56,10 @@
 
 <!-- latest-tweets-start -->
 
-* [@ShettyDeveesh wow wow](https://twitter.com/waheed_hanzalah/status/2035570808089964973)
-* [E Mubz gng 🫂🥀](https://twitter.com/waheed_hanzalah/status/2035303945833427278)
-* [RT @AnxKhn: You need to be chronically online to get this. I love it.](https://twitter.com/waheed_hanzalah/status/2035141561026322455)
-* [@AnxKhn real lmao](https://twitter.com/waheed_hanzalah/status/2035141551354257635)
-* [i gotta read dune before the 3rd movie is out. ps, i haven’t even watched a single movie yet. respect to dune fandom for not giving out any spoilers. https://t.co/AZxHw5Nqmn](https://twitter.com/waheed_hanzalah/status/2035139519704613282)
+* [@AniFrieren we already know s3 also gon be peak hehe](https://twitter.com/waheed_hanzalah/status/2037653884844585468)
+* [@animetv_jp lfg](https://twitter.com/waheed_hanzalah/status/2037593162173259864)
+* [cookin https://t.co/ng2ySdDN9h](https://twitter.com/waheed_hanzalah/status/2037569339419938973)
+* [interesting shift to see models being held back not because they are incomplete, but because they are too capable](https://twitter.com/waheed_hanzalah/status/2037561311874437496)
+* [RT @FajrCoded: The amazing Shelf Cloud over the Mleiha area today in Sharjah, UAE
+
+Video by Tarek Sharif 📸 https://t.co/nUMbieZY47](https://twitter.com/waheed_hanzalah/status/2037480460029415477)
