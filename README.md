@@ -50,16 +50,3 @@
 [![GitHub Streak](https://github-readme-streak-stats-dun-ten.vercel.app?user=hanzalahwaheed&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-<br>
-
-## 🐦 Latest Tweets
-
-<!-- latest-tweets-start -->
-
-* [@AniFrieren we already know s3 also gon be peak hehe](https://twitter.com/waheed_hanzalah/status/2037653884844585468)
-* [@animetv_jp lfg](https://twitter.com/waheed_hanzalah/status/2037593162173259864)
-* [cookin https://t.co/ng2ySdDN9h](https://twitter.com/waheed_hanzalah/status/2037569339419938973)
-* [interesting shift to see models being held back not because they are incomplete, but because they are too capable](https://twitter.com/waheed_hanzalah/status/2037561311874437496)
-* [RT @FajrCoded: The amazing Shelf Cloud over the Mleiha area today in Sharjah, UAE
-
-Video by Tarek Sharif 📸 https://t.co/nUMbieZY47](https://twitter.com/waheed_hanzalah/status/2037480460029415477)
