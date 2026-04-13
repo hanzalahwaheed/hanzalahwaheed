@@ -23,7 +23,24 @@ jobs:
 
           FROM=$(date -u -d '1 year ago' +%Y-%m-%dT%H:%M:%SZ)
           TO=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          FROM_DATE=${FROM%%T*}
 
+          # Merged PRs via search (last 12 months)
+          gh api graphql \
+            -F q="author:$USERNAME is:pr is:merged merged:>=$FROM_DATE" \
+            -f query='
+              query($q: String!) {
+                search(query: $q, type: ISSUE, first: 100) {
+                  issueCount
+                  nodes {
+                    ... on PullRequest {
+                      repository { nameWithOwner stargazerCount url owner { login } }
+                    }
+                  }
+                }
+              }' > merged_prs.json
+
+          # Reviews + issues + totals via contributionsCollection
           gh api graphql \
             -F username="$USERNAME" \
             -F from="$FROM" \
@@ -32,18 +49,8 @@ jobs:
               query($username: String!, $from: DateTime!, $to: DateTime!) {
                 user(login: $username) {
                   contributionsCollection(from: $from, to: $to) {
-                    totalCommitContributions
-                    totalPullRequestContributions
                     totalPullRequestReviewContributions
                     totalIssueContributions
-                    commitContributionsByRepository(maxRepositories: 50) {
-                      repository { nameWithOwner stargazerCount url owner { login } }
-                      contributions { totalCount }
-                    }
-                    pullRequestContributionsByRepository(maxRepositories: 50) {
-                      repository { nameWithOwner stargazerCount url owner { login } }
-                      contributions { totalCount }
-                    }
                     pullRequestReviewContributionsByRepository(maxRepositories: 50) {
                       repository { nameWithOwner stargazerCount url owner { login } }
                       contributions { totalCount }
@@ -54,35 +61,63 @@ jobs:
                     }
                   }
                 }
-              }' > oss.json
+              }' > contribs.json
 
-          jq --arg user "$USERNAME" -r '
+          jq --arg user "$USERNAME" \
+             --slurpfile prs merged_prs.json \
+             -r '
             .data.user.contributionsCollection as $c
-            | def rows(field; key):
+
+            # Merged PR rows grouped by repo
+            | ($prs[0].data.search.nodes
+                | map(select(.repository.owner.login != $user))
+                | group_by(.repository.nameWithOwner)
+                | map({
+                    repo: .[0].repository.nameWithOwner,
+                    url: .[0].repository.url,
+                    stars: .[0].repository.stargazerCount,
+                    merged_prs: length, reviews: 0, issues: 0
+                  })) as $prRows
+
+            | def contribRows(field; key):
                 ($c[field] // [])
                 | map(select(.repository.owner.login != $user))
-                | map({repo: .repository.nameWithOwner, url: .repository.url, stars: .repository.stargazerCount, (key): .contributions.totalCount});
+                | map({
+                    repo: .repository.nameWithOwner,
+                    url: .repository.url,
+                    stars: .repository.stargazerCount,
+                    merged_prs: 0, reviews: 0, issues: 0,
+                    (key): .contributions.totalCount
+                  });
 
-            (rows("commitContributionsByRepository"; "commits")
-             + rows("pullRequestContributionsByRepository"; "prs")
-             + rows("pullRequestReviewContributionsByRepository"; "reviews")
-             + rows("issueContributionsByRepository"; "issues"))
+            ($prRows
+              + contribRows("pullRequestReviewContributionsByRepository"; "reviews")
+              + contribRows("issueContributionsByRepository"; "issues"))
             | group_by(.repo)
-            | map(reduce .[] as $x ({commits:0, prs:0, reviews:0, issues:0}; . + $x))
-            | map(. + {total: (.commits + .prs + .reviews + .issues)})
+            | map(
+                (.[0] | {repo, url, stars})
+                + (reduce .[] as $x ({merged_prs:0, reviews:0, issues:0};
+                    .merged_prs += $x.merged_prs
+                    | .reviews += $x.reviews
+                    | .issues += $x.issues))
+              )
+            | map(. + {total: (.merged_prs + .reviews + .issues)})
+            | map(select(.total > 0))
             | sort_by(-.total, -.stars)
             | .[:10] as $top
 
-            | "| Repository | ⭐ | Commits | PRs | Reviews | Issues |",
-              "| --- | ---: | ---: | ---: | ---: | ---: |",
-              ($top[] | "| [\(.repo)](\(.url)) | \(.stars) | \(.commits) | \(.prs) | \(.reviews) | \(.issues) |"),
+            | ($prs[0].data.search.nodes
+                | map(select(.repository.owner.login != $user)) | length) as $mergedTotal
+
+            | "| Repository | ⭐ | Merged PRs | Reviews | Issues |",
+              "| --- | ---: | ---: | ---: | ---: |",
+              ($top[] | "| [\(.repo)](\(.url)) | \(.stars) | \(.merged_prs) | \(.reviews) | \(.issues) |"),
               "",
-              "**Totals (all public OSS):** \($c.totalCommitContributions) commits · \($c.totalPullRequestContributions) PRs · \($c.totalPullRequestReviewContributions) reviews · \($c.totalIssueContributions) issues",
+              "**Totals (all public OSS):** \($mergedTotal) merged PRs · \($c.totalPullRequestReviewContributions) reviews · \($c.totalIssueContributions) issues",
               "",
               "_Last updated: \(now | strftime("%Y-%m-%d"))_"
-          ' oss.json > oss.md
+          ' contribs.json > oss.md
 
-          # Splice between markers
           awk '
             /<!-- oss-start -->/ { print; print ""; while ((getline line < "oss.md") > 0) print line; print ""; skip=1; next }
             /<!-- oss-end -->/   { skip=0 }
