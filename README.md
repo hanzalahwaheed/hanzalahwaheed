@@ -56,4 +56,22 @@
 ### 🌱 OSS Contributions (Last 12 Months)
 
 <!-- oss-start -->
+
+| Repository | ⭐ | Commits | PRs | Reviews | Issues |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 17823 | 12 | 7 | 0 | 9 |
+| [c2siorg/dataloom](https://github.com/c2siorg/dataloom) | 23 | 8 | 9 | 0 | 8 |
+| [precice/precice.github.io](https://github.com/precice/precice.github.io) | 31 | 2 | 3 | 3 | 4 |
+| [c2siorg/c2siorg.github.io](https://github.com/c2siorg/c2siorg.github.io) | 4 | 1 | 2 | 0 | 2 |
+| [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) | 1197 | 1 | 1 | 0 | 1 |
+| [CircuitVerse/CircuitVerseDocs](https://github.com/CircuitVerse/CircuitVerseDocs) | 98 | 1 | 1 | 0 | 1 |
+| [zulip/zulip](https://github.com/zulip/zulip) | 25016 | 1 | 1 | 0 | 0 |
+| [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | 11117 | 0 | 1 | 0 | 0 |
+| [outerbase/studio](https://github.com/outerbase/studio) | 5753 | 0 | 0 | 0 | 1 |
+| [interledger/rafiki](https://github.com/interledger/rafiki) | 345 | 0 | 1 | 0 | 0 |
+
+**Totals (all public OSS):** 168 commits · 30 PRs · 3 reviews · 36 issues
+
+_Last updated: 2026-04-13_
+
 <!-- oss-end -->
