@@ -27,29 +27,23 @@ jobs:
             -H "Authorization: Bearer $TWITTER_BEARER_TOKEN")
       
           echo "$response" > tmp/user_and_tweets.json
-      
-          # Check if the response is empty
+
+          # Log response up front for debugging
+          echo "Twitter API response: $response"
+
+          # Empty response — fail hard, something is wrong with the request
           if [ -z "$response" ]; then
             echo "Error: Empty response from Twitter API"
             exit 1
           fi
-      
-          # Check if the response contains an error
-          if echo "$response" | jq -e '.errors' > /dev/null; then
-            echo "Error: Twitter API returned an error:"
-            echo "$response" | jq '.errors'
-            exit 1
+
+          # No .data (rate limited, empty timeline, or API error) — skip gracefully
+          if ! echo "$response" | jq -e '.data' > /dev/null; then
+            echo "No tweet data in response (rate limit, empty timeline, or API error). Skipping README update."
+            rm -f tmp/latest_tweets.md
+            exit 0
           fi
-      
-          # Check if the response data is null
-          if echo "$response" | jq -e '.data == null' > /dev/null; then
-            echo "Error: Invalid response from Twitter API"
-            exit 1
-          fi
-      
-          # Additional logging for debugging
-          echo "Twitter API response: $response"
-      
+
           # Extract tweets and format them into markdown
           echo "$response" | jq -r '.data[] | "* [\(.text)](https://twitter.com/waheed_hanzalah/status/\(.id))"' > tmp/latest_tweets.md
      
