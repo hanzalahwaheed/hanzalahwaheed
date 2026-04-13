@@ -1,0 +1,102 @@
+name: Update OSS Contributions
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # Daily at 02:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-oss:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch OSS contributions and render section
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          set -euo pipefail
+
+          FROM=$(date -u -d '1 year ago' +%Y-%m-%dT%H:%M:%SZ)
+          TO=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+
+          gh api graphql \
+            -F username="$USERNAME" \
+            -F from="$FROM" \
+            -F to="$TO" \
+            -f query='
+              query($username: String!, $from: DateTime!, $to: DateTime!) {
+                user(login: $username) {
+                  contributionsCollection(from: $from, to: $to) {
+                    totalCommitContributions
+                    totalPullRequestContributions
+                    totalPullRequestReviewContributions
+                    totalIssueContributions
+                    commitContributionsByRepository(maxRepositories: 50) {
+                      repository { nameWithOwner stargazerCount url owner { login } }
+                      contributions { totalCount }
+                    }
+                    pullRequestContributionsByRepository(maxRepositories: 50) {
+                      repository { nameWithOwner stargazerCount url owner { login } }
+                      contributions { totalCount }
+                    }
+                    pullRequestReviewContributionsByRepository(maxRepositories: 50) {
+                      repository { nameWithOwner stargazerCount url owner { login } }
+                      contributions { totalCount }
+                    }
+                    issueContributionsByRepository(maxRepositories: 50) {
+                      repository { nameWithOwner stargazerCount url owner { login } }
+                      contributions { totalCount }
+                    }
+                  }
+                }
+              }' > oss.json
+
+          jq --arg user "$USERNAME" -r '
+            .data.user.contributionsCollection as $c
+            | def rows(field; key):
+                ($c[field] // [])
+                | map(select(.repository.owner.login != $user))
+                | map({repo: .repository.nameWithOwner, url: .repository.url, stars: .repository.stargazerCount, (key): .contributions.totalCount});
+
+            (rows("commitContributionsByRepository"; "commits")
+             + rows("pullRequestContributionsByRepository"; "prs")
+             + rows("pullRequestReviewContributionsByRepository"; "reviews")
+             + rows("issueContributionsByRepository"; "issues"))
+            | group_by(.repo)
+            | map(reduce .[] as $x ({commits:0, prs:0, reviews:0, issues:0}; . + $x))
+            | map(. + {total: (.commits + .prs + .reviews + .issues)})
+            | sort_by(-.total, -.stars)
+            | .[:10] as $top
+
+            | "| Repository | ⭐ | Commits | PRs | Reviews | Issues |",
+              "| --- | ---: | ---: | ---: | ---: | ---: |",
+              ($top[] | "| [\(.repo)](\(.url)) | \(.stars) | \(.commits) | \(.prs) | \(.reviews) | \(.issues) |"),
+              "",
+              "**Totals (all public OSS):** \($c.totalCommitContributions) commits · \($c.totalPullRequestContributions) PRs · \($c.totalPullRequestReviewContributions) reviews · \($c.totalIssueContributions) issues",
+              "",
+              "_Last updated: \(now | strftime("%Y-%m-%d"))_"
+          ' oss.json > oss.md
+
+          # Splice between markers
+          awk '
+            /<!-- oss-start -->/ { print; print ""; while ((getline line < "oss.md") > 0) print line; print ""; skip=1; next }
+            /<!-- oss-end -->/   { skip=0 }
+            !skip { print }
+          ' README.md > README.new && mv README.new README.md
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update OSS contributions"
+          git push

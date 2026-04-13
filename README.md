@@ -50,3 +50,10 @@
 [![GitHub Streak](https://github-readme-streak-stats-dun-ten.vercel.app?user=hanzalahwaheed&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+### 🌱 OSS Contributions (Last 12 Months)
+
+<!-- oss-start -->
+<!-- oss-end -->
