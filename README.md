@@ -37,8 +37,14 @@
   <img src="https://img.icons8.com/fluency/96/000000/node-js.png" alt="Node.js" style="margin:10px;">
   <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" style="margin:10px;">
   <img src="https://img.icons8.com/color/96/000000/my-sql.png" alt="MySQL" style="margin:10px;">
+  <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" style="margin:10px;">
+  <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" style="margin:10px;">
   <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" style="margin:10px;">
   <img src="https://img.icons8.com/fluency/96/000000/figma.png" alt="Figma" style="margin:10px;">
+  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="96" height="96" style="margin:10px;">
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="96" height="96" style="margin:10px;">
+  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude Code" width="96" height="96" style="margin:10px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" alt="Codex" width="96" height="96" style="margin:10px;">
 </p>
 
 ---
