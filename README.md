@@ -66,18 +66,18 @@
 | Repository | ⭐ | Merged PRs | Reviews | Issues |
 | --- | ---: | ---: | ---: | ---: |
 | [c2siorg/dataloom](https://github.com/c2siorg/dataloom) | 23 | 13 | 0 | 15 |
-| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 17922 | 5 | 0 | 9 |
+| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 17921 | 5 | 0 | 9 |
 | [precice/precice.github.io](https://github.com/precice/precice.github.io) | 30 | 2 | 3 | 4 |
 | [c2siorg/c2siorg.github.io](https://github.com/c2siorg/c2siorg.github.io) | 3 | 1 | 0 | 2 |
-| [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) | 1223 | 1 | 0 | 1 |
+| [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) | 1225 | 1 | 0 | 1 |
 | [outerbase/studio-desktop](https://github.com/outerbase/studio-desktop) | 183 | 0 | 0 | 2 |
 | [CircuitVerse/CircuitVerseDocs](https://github.com/CircuitVerse/CircuitVerseDocs) | 98 | 1 | 0 | 1 |
-| [zulip/zulip](https://github.com/zulip/zulip) | 25313 | 1 | 0 | 0 |
-| [outerbase/studio](https://github.com/outerbase/studio) | 5801 | 0 | 0 | 1 |
+| [zulip/zulip](https://github.com/zulip/zulip) | 25316 | 1 | 0 | 0 |
+| [outerbase/studio](https://github.com/outerbase/studio) | 5800 | 0 | 0 | 1 |
 | [CircuitVerse/cv-frontend-vue](https://github.com/CircuitVerse/cv-frontend-vue) | 58 | 0 | 0 | 1 |
 
 **Totals (all public OSS):** 24 merged PRs · 3 reviews · 44 issues
 
-_Last updated: 2026-06-05_
+_Last updated: 2026-06-06_
 
 <!-- oss-end -->
