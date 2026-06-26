@@ -11,7 +11,6 @@
 
 <div align="center">
    <h3>💻 Software Development Engineer | 🛸 Dubai</h3>
-   <h4>⚡ I build stuff, watch anime, and grind games 🎮</h4>
 </div>
 
 ---
