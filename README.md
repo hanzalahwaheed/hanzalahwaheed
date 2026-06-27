@@ -71,12 +71,12 @@
 | [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) | 1233 | 1 | 0 | 1 |
 | [outerbase/studio-desktop](https://github.com/outerbase/studio-desktop) | 183 | 0 | 0 | 2 |
 | [CircuitVerse/CircuitVerseDocs](https://github.com/CircuitVerse/CircuitVerseDocs) | 98 | 1 | 0 | 1 |
-| [zulip/zulip](https://github.com/zulip/zulip) | 25402 | 1 | 0 | 0 |
-| [outerbase/studio](https://github.com/outerbase/studio) | 5818 | 0 | 0 | 1 |
+| [zulip/zulip](https://github.com/zulip/zulip) | 25412 | 1 | 0 | 0 |
+| [outerbase/studio](https://github.com/outerbase/studio) | 5817 | 0 | 0 | 1 |
 | [CircuitVerse/cv-frontend-vue](https://github.com/CircuitVerse/cv-frontend-vue) | 59 | 0 | 0 | 1 |
 
 **Totals (all public OSS):** 31 merged PRs · 3 reviews · 53 issues
 
-_Last updated: 2026-06-26_
+_Last updated: 2026-06-27_
 
 <!-- oss-end -->
