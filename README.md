@@ -2,22 +2,33 @@
 
 <sub>Banner: One Piece.</sub>
 
-**Hanzalah Waheed** — Founding Engineer at [StockInsights.ai](https://stockinsights.ai) · Dubai, UAE
+**Hanzalah Waheed** · Founding Engineer at [StockInsights.ai](https://stockinsights.ai) · Dubai, UAE
 
 [Website](https://hanzalahwaheed.com) · [Writing](https://hanzalahwaheed.com/blogs) · [LinkedIn](https://www.linkedin.com/in/hanzalah-waheed-b16456231/) · [X](https://twitter.com/waheed_hanzalah) · [Email](mailto:hanzalah.w@gmail.com)
 
 ---
 
-I have been at [StockInsights.ai](https://stockinsights.ai) since August 2024, building the systems behind the product. I designed the retrieval pipeline over financial filings — OpenAI `text-embedding-3` with `pgvector` on AWS RDS — which now summarises 25,000+ filings a month. I moved full-text search off MongoDB Atlas onto Postgres, redesigning the indexing and relevance scoring for long financial documents, which made search about 120% faster and cut more than $5,000/yr of infrastructure cost. I also built the webhook delivery system on SQS and SNS that pushes new filings to customer endpoints, with retries and at-least-once delivery. Alongside that I own the frontend, the multi-session chat system, and the Stripe metered billing that opened the company's first recurring API revenue.
+## Work
+
+Founding Engineer at [StockInsights.ai](https://stockinsights.ai) since August 2024.
+
+- Retrieval pipeline over financial filings: `text-embedding-3` and `pgvector` on AWS RDS.
+- That pipeline now summarises more than 25,000 filings every month.
+- Moved full-text search from MongoDB Atlas to Postgres, with redesigned indexing and relevance scoring.
+- Search got about 120% faster and cut over $5,000 a year of infrastructure cost.
+- Webhook delivery on SQS and SNS: new filings pushed to customer endpoints.
+- That delivery path uses retries and gives consumers at-least-once delivery semantics.
+- I also own the frontend, the multi-session chat system, and Stripe metered billing.
+- The billing work opened the company's first recurring API revenue stream.
 
 ## Writing
 
-I write about the problems I hit while doing that work: Postgres internals, retrieval and LLM plumbing, React performance, and open source.
+I write about Postgres internals, retrieval plumbing, React performance, and open source.
 
 <!-- blogs-start -->
 
-- [Why Updating Data in Postgres Is More Expensive Than You Think](https://hanzalahwaheed.com/blogs/postgres-updates-case-study) — a case study on multi-million-row updates: MVCC, TOAST, GIN indexes, and when rebuilding a table beats updating it in place.
-- [Doomscrolling GitHub, Contributing to OSS and GSoC](https://hanzalahwaheed.com/blogs/oss-and-more) — how to contribute to open source in the age of coding agents, and how to get into Google Summer of Code.
+- [Why Updating Data in Postgres Is More Expensive Than You Think](https://hanzalahwaheed.com/blogs/postgres-updates-case-study): MVCC, TOAST, GIN indexes, and when rebuilding beats updating in place.
+- [Doomscrolling GitHub, Contributing to OSS and GSoC](https://hanzalahwaheed.com/blogs/oss-and-more): contributing to open source in the age of coding agents.
 
 <!-- blogs-end -->
 
@@ -25,7 +36,15 @@ More at [hanzalahwaheed.com/blogs](https://hanzalahwaheed.com/blogs).
 
 ## Open source
 
-I am a Google Summer of Code 2026 contributor at [C2SI](https://github.com/c2siorg), building the data-profiling engine for [DataLoom](https://github.com/c2siorg/dataloom), an open-source data-wrangling platform — type-aware column statistics, automatic distribution detection, and correlation heatmaps. I also widened ingestion from CSV-only to five formats, added JWT cookie authentication with per-user project ownership, and wrote 100+ pytest cases across auth, security, and transformations. Outside GSoC I contribute where I happen to be using the software: DocsGPT, preCICE, CircuitVerse, and Zulip. The table below updates itself daily.
+Google Summer of Code 2026 contributor at [C2SI](https://github.com/c2siorg), on [DataLoom](https://github.com/c2siorg/dataloom).
+
+- Built the data-profiling engine for DataLoom, an open-source data-wrangling platform.
+- Type-aware column statistics, automatic distribution detection, and Pearson correlation heatmaps.
+- Widened ingestion and export from CSV only to five formats.
+- Added JWT cookie authentication with per-user project ownership at the API layer.
+- Wrote over 100 pytest cases across auth, security, and transformations.
+- Outside GSoC I contribute to DocsGPT, preCICE, CircuitVerse, and Zulip.
+- The table below refreshes itself daily from the GitHub contributions API.
 
 <!-- oss-start -->
 
