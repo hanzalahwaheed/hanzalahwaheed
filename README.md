@@ -1,64 +1,31 @@
 ![1500x500](https://github.com/user-attachments/assets/cd805b9b-1002-4c8c-851c-3026ac91b0c5)
 
-<div align="center">
-   <h1>Hey there, I'm <a href="https://github.com/hanzalahwaheed/">Hanzalah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-</div>
+<sub>Banner: One Piece.</sub>
 
-<p align="center">
-   <a href="https://www.linkedin.com/in/hanzalah-waheed-b16456231/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://twitter.com/waheed_hanzalah"><img height="30" src="https://img.freepik.com/free-vector/new-2023-twitter-x-logo-black-background_1017-45423.jpg"></a>
-</p>
+**Hanzalah Waheed** — Founding Engineer at [StockInsights.ai](https://stockinsights.ai) · Dubai, UAE
 
-<div align="center">
-   <h3>💻 Software Development Engineer | 🛸 Dubai</h3>
-</div>
+[Website](https://hanzalahwaheed.com) · [Writing](https://hanzalahwaheed.com/blogs) · [LinkedIn](https://www.linkedin.com/in/hanzalah-waheed-b16456231/) · [X](https://twitter.com/waheed_hanzalah) · [Email](mailto:hanzalah.w@gmail.com)
 
 ---
 
-### About Me
+I have been at [StockInsights.ai](https://stockinsights.ai) since August 2024, building the systems behind the product. I designed the retrieval pipeline over financial filings — OpenAI `text-embedding-3` with `pgvector` on AWS RDS — which now summarises 25,000+ filings a month. I moved full-text search off MongoDB Atlas onto Postgres, redesigning the indexing and relevance scoring for long financial documents, which made search about 120% faster and cut more than $5,000/yr of infrastructure cost. I also built the webhook delivery system on SQS and SNS that pushes new filings to customer endpoints, with retries and at-least-once delivery. Alongside that I own the frontend, the multi-session chat system, and the Stripe metered billing that opened the company's first recurring API revenue.
 
-- Software Development Engineer 🚀, always chasing that clean, elegant code.
-- Obsessed with building and contributing to cool projects.
-- Open to chatting about tech, games, or why anime characters never eat enough.
-- Portfolio & projects: [hanzalahwaheed.com](https://hanzalahwaheed.com)
+## Writing
 
----
+I write about the problems I hit while doing that work: Postgres internals, retrieval and LLM plumbing, React performance, and open source.
 
-### 🛠️ Languages & Tools
+<!-- blogs-start -->
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" style="margin:10px;">
-  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" style="margin:10px;">
-  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" style="margin:10px;">
-  <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript" style="margin:10px;">
-  <img src="https://img.icons8.com/color/96/000000/nextjs.png" alt="Next.js" style="margin:10px;">
-  <img src="https://img.icons8.com/officel/96/000000/react.png" alt="React" style="margin:10px;">
-  <img src="https://img.icons8.com/fluency/96/000000/node-js.png" alt="Node.js" style="margin:10px;">
-  <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" style="margin:10px;">
-  <img src="https://img.icons8.com/color/96/000000/my-sql.png" alt="MySQL" style="margin:10px;">
-  <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" style="margin:10px;">
-  <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" style="margin:10px;">
-  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" style="margin:10px;">
-  <img src="https://img.icons8.com/fluency/96/000000/figma.png" alt="Figma" style="margin:10px;">
-  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="96" height="96" style="margin:10px;">
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="96" height="96" style="margin:10px;">
-  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude Code" width="96" height="96" style="margin:10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" alt="Codex" width="96" height="96" style="margin:10px;">
-</p>
+- [Why Updating Data in Postgres Is More Expensive Than You Think](https://hanzalahwaheed.com/blogs/postgres-updates-case-study) — a case study on multi-million-row updates: MVCC, TOAST, GIN indexes, and when rebuilding a table beats updating it in place.
+- [Doomscrolling GitHub, Contributing to OSS and GSoC](https://hanzalahwaheed.com/blogs/oss-and-more) — how to contribute to open source in the age of coding agents, and how to get into Google Summer of Code.
 
----
+<!-- blogs-end -->
 
-### 📊 My Stats
+More at [hanzalahwaheed.com/blogs](https://hanzalahwaheed.com/blogs).
 
-<br><div align="center">
+## Open source
 
-[![GitHub Streak](https://github-readme-streak-stats-dun-ten.vercel.app?user=hanzalahwaheed&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 🌱 OSS Contributions (Last 12 Months)
+I am a Google Summer of Code 2026 contributor at [C2SI](https://github.com/c2siorg), building the data-profiling engine for [DataLoom](https://github.com/c2siorg/dataloom), an open-source data-wrangling platform — type-aware column statistics, automatic distribution detection, and correlation heatmaps. I also widened ingestion from CSV-only to five formats, added JWT cookie authentication with per-user project ownership, and wrote 100+ pytest cases across auth, security, and transformations. Outside GSoC I contribute where I happen to be using the software: DocsGPT, preCICE, CircuitVerse, and Zulip. The table below updates itself daily.
 
 <!-- oss-start -->
 
