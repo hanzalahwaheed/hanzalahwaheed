@@ -41,11 +41,11 @@ currently building **stockinsights** and **dataloom**.
 <table width="100%">
   <thead>
     <tr>
-      <th width="52%" align="left">repository</th>
-      <th width="12%" align="right">stars</th>
-      <th width="12%" align="right">merged prs</th>
-      <th width="12%" align="right">reviews</th>
-      <th width="12%" align="right">issues</th>
+      <th width="460" align="left">repository</th>
+      <th width="100" align="right">stars</th>
+      <th width="110" align="right">merged&nbsp;prs</th>
+      <th width="100" align="right">reviews</th>
+      <th width="100" align="right">issues</th>
     </tr>
   </thead>
   <tbody>
