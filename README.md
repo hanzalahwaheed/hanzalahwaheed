@@ -1,42 +1,40 @@
 ![1500x500](https://github.com/user-attachments/assets/cd805b9b-1002-4c8c-851c-3026ac91b0c5)
 
-<sub>Banner: One Piece.</sub>
+**hanzalah waheed** · founding engineer · dubai, uae
 
-**Hanzalah Waheed** · Founding Engineer · Dubai, UAE
+[website](https://hanzalahwaheed.com) · [writing](https://hanzalahwaheed.com/blogs) · [linkedin](https://www.linkedin.com/in/hanzalah-waheed-b16456231/) · [x](https://twitter.com/waheed_hanzalah) · [email](mailto:hanzalah.w@gmail.com)
 
-[Website](https://hanzalahwaheed.com) · [Writing](https://hanzalahwaheed.com/blogs) · [LinkedIn](https://www.linkedin.com/in/hanzalah-waheed-b16456231/) · [X](https://twitter.com/waheed_hanzalah) · [Email](mailto:hanzalah.w@gmail.com)
+i build **retrieval systems, data infrastructure, and the products on top of them.**
 
-I build **retrieval systems, data infrastructure, and the products on top of them.**
-
-▸ **Founding Engineer** · **[StockInsights.ai](https://stockinsights.ai)** · retrieval over financial filings with `pgvector`, Postgres full-text search, SQS/SNS webhook delivery<br/>
-▸ **Google Summer of Code 2026** · **[C2SI / DataLoom](https://github.com/c2siorg/dataloom)** · built the data-profiling engine for an open-source data-wrangling platform<br/>
-▸ **Writing** · **[hanzalahwaheed.com/blogs](https://hanzalahwaheed.com/blogs)** · Postgres internals, retrieval plumbing, React performance, open source<br/>
+\> **founding engineer** · **[stockinsights.ai](https://stockinsights.ai)** · retrieval over financial filings with `pgvector`, postgres full-text search, sqs/sns webhook delivery<br/>
+\> **google summer of code 2026** · **[c2si / dataloom](https://github.com/c2siorg/dataloom)** · built the data-profiling engine for an open-source data-wrangling platform<br/>
+\> **writing** · **[hanzalahwaheed.com/blogs](https://hanzalahwaheed.com/blogs)** · postgres internals, retrieval plumbing, react performance, open source<br/>
 
 <!-- blogs-start -->
 
-Latest posts: [Why Updating Data in Postgres Is More Expensive Than You Think](https://hanzalahwaheed.com/blogs/postgres-updates-case-study) · [Doomscrolling GitHub, Contributing to OSS and GSoC](https://hanzalahwaheed.com/blogs/oss-and-more)
+latest posts: [why updating data in postgres is more expensive than you think](https://hanzalahwaheed.com/blogs/postgres-updates-case-study) · [doomscrolling github, contributing to oss and gsoc](https://hanzalahwaheed.com/blogs/oss-and-more)
 
 <!-- blogs-end -->
 
-Currently building **StockInsights** and **DataLoom**.
+currently building **stockinsights** and **dataloom**.
 
 <p>
-  <strong>Tech Stack</strong>
+  <strong>tech stack</strong>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-161B22?style=flat&logo=redis&logoColor=FF4438" alt="Redis" />
-  <img src="https://img.shields.io/badge/AWS-161B22?style=flat&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-161B22?style=flat&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Claude-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="Claude" />
+  <img src="https://img.shields.io/badge/python-161B22?style=flat&logo=python&logoColor=3776AB" alt="python" />
+  <img src="https://img.shields.io/badge/typescript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="typescript" />
+  <img src="https://img.shields.io/badge/next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" alt="next.js" />
+  <img src="https://img.shields.io/badge/react-161B22?style=flat&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/fastapi-161B22?style=flat&logo=fastapi&logoColor=009688" alt="fastapi" />
+  <img src="https://img.shields.io/badge/postgresql-161B22?style=flat&logo=postgresql&logoColor=4169E1" alt="postgresql" />
+  <img src="https://img.shields.io/badge/redis-161B22?style=flat&logo=redis&logoColor=FF4438" alt="redis" />
+  <img src="https://img.shields.io/badge/aws-161B22?style=flat&logo=amazonwebservices&logoColor=FF9900" alt="aws" />
+  <img src="https://img.shields.io/badge/docker-161B22?style=flat&logo=docker&logoColor=2496ED" alt="docker" />
+  <img src="https://img.shields.io/badge/vercel-161B22?style=flat&logo=vercel&logoColor=FFFFFF" alt="vercel" />
+  <img src="https://img.shields.io/badge/claude-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="claude" />
 </p>
 
-<sub>Open source activity, last 12 months. Updates daily.</sub>
+<sub>open source activity, last 12 months. updates daily.</sub>
 
 <!-- oss-start -->
 
