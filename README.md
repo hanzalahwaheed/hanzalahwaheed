@@ -1,6 +1,6 @@
 ![1500x500](https://github.com/user-attachments/assets/cd805b9b-1002-4c8c-851c-3026ac91b0c5)
 
-**hanzalah waheed** · founding engineer · dubai, uae
+**hanzalah waheed** · software engineer (swe) · dubai, uae
 
 [website](https://hanzalahwaheed.com) · [writing](https://hanzalahwaheed.com/blogs) · [linkedin](https://www.linkedin.com/in/hanzalah-waheed-b16456231/) · [x](https://twitter.com/waheed_hanzalah) · [email](mailto:hanzalah.w@gmail.com)
 
