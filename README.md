@@ -16,10 +16,8 @@ latest posts: [why updating data in postgres is more expensive than you think](h
 
 <!-- blogs-end -->
 
-currently building **stockinsights** and **dataloom**.
-
 <p>
-  <strong>tech stack</strong>
+  <strong>tech stack: </strong>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python-161B22?style=flat&logo=python&logoColor=3776AB" alt="python" />
   <img src="https://img.shields.io/badge/typescript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="typescript" />
