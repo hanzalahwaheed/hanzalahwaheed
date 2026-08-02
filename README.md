@@ -34,94 +34,12 @@ currently building **stockinsights** and **dataloom**.
   <img src="https://img.shields.io/badge/claude-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="claude" />
 </p>
 
-<sub>open source activity, last 12 months. updates daily.</sub>
-
 <!-- oss-start -->
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="460" align="left">repository</th>
-      <th width="100" align="right">stars</th>
-      <th width="110" align="right">merged&nbsp;prs</th>
-      <th width="100" align="right">reviews</th>
-      <th width="100" align="right">issues</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left"><a href="https://github.com/c2siorg/dataloom">c2siorg/dataloom</a></td>
-      <td align="right">25</td>
-      <td align="right">27</td>
-      <td align="right">0</td>
-      <td align="right">33</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/arc53/DocsGPT">arc53/DocsGPT</a></td>
-      <td align="right">18188</td>
-      <td align="right">5</td>
-      <td align="right">0</td>
-      <td align="right">9</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/precice/precice.github.io">precice/precice.github.io</a></td>
-      <td align="right">29</td>
-      <td align="right">2</td>
-      <td align="right">3</td>
-      <td align="right">4</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/c2siorg/c2siorg.github.io">c2siorg/c2siorg.github.io</a></td>
-      <td align="right">3</td>
-      <td align="right">1</td>
-      <td align="right">0</td>
-      <td align="right">2</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/CircuitVerse/CircuitVerse">CircuitVerse/CircuitVerse</a></td>
-      <td align="right">1244</td>
-      <td align="right">1</td>
-      <td align="right">0</td>
-      <td align="right">1</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/outerbase/studio-desktop">outerbase/studio-desktop</a></td>
-      <td align="right">184</td>
-      <td align="right">0</td>
-      <td align="right">0</td>
-      <td align="right">2</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/CircuitVerse/CircuitVerseDocs">CircuitVerse/CircuitVerseDocs</a></td>
-      <td align="right">98</td>
-      <td align="right">1</td>
-      <td align="right">0</td>
-      <td align="right">1</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/zulip/zulip">zulip/zulip</a></td>
-      <td align="right">25591</td>
-      <td align="right">1</td>
-      <td align="right">0</td>
-      <td align="right">0</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/outerbase/studio">outerbase/studio</a></td>
-      <td align="right">5862</td>
-      <td align="right">0</td>
-      <td align="right">0</td>
-      <td align="right">1</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/CircuitVerse/cv-frontend-vue">CircuitVerse/cv-frontend-vue</a></td>
-      <td align="right">61</td>
-      <td align="right">0</td>
-      <td align="right">0</td>
-      <td align="right">1</td>
-    </tr>
-  </tbody>
-</table>
+**38 merged prs** across **7 repos** in the last 12 months.
 
-<sub>totals (all public oss): 38 merged prs · 3 reviews · 63 issues · last updated 2026-08-02</sub>
+flagship: [c2siorg/dataloom](https://github.com/c2siorg/dataloom) · 27 merged prs · full breakdown at [hanzalahwaheed/oss](https://github.com/hanzalahwaheed/oss)
+
+<sub>last updated 2026-08-02</sub>
 
 <!-- oss-end -->

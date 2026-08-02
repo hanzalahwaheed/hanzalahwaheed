@@ -109,29 +109,14 @@ jobs:
             | ($prs[0].data.search.nodes
                 | map(select(.repository.owner.login != $user)) | length) as $mergedTotal
 
-            | "<table width=\"100%\">",
-              "  <thead>",
-              "    <tr>",
-              "      <th width=\"460\" align=\"left\">repository</th>",
-              "      <th width=\"100\" align=\"right\">stars</th>",
-              "      <th width=\"110\" align=\"right\">merged&nbsp;prs</th>",
-              "      <th width=\"100\" align=\"right\">reviews</th>",
-              "      <th width=\"100\" align=\"right\">issues</th>",
-              "    </tr>",
-              "  </thead>",
-              "  <tbody>",
-              ($top[] |
-                "    <tr>",
-                "      <td align=\"left\"><a href=\"\(.url)\">\(.repo)</a></td>",
-                "      <td align=\"right\">\(.stars)</td>",
-                "      <td align=\"right\">\(.merged_prs)</td>",
-                "      <td align=\"right\">\(.reviews)</td>",
-                "      <td align=\"right\">\(.issues)</td>",
-                "    </tr>"),
-              "  </tbody>",
-              "</table>",
+            | ($prRows | length) as $repoCount
+            | ($prRows | max_by(.merged_prs)) as $flagship
+
+            | "**\($mergedTotal) merged prs** across **\($repoCount) repos** in the last 12 months.",
               "",
-              "<sub>totals (all public oss): \($mergedTotal) merged prs · \($c.totalPullRequestReviewContributions) reviews · \($c.totalIssueContributions) issues · last updated \(now | strftime("%Y-%m-%d"))</sub>"
+              "flagship: [\($flagship.repo)](\($flagship.url)) · \($flagship.merged_prs) merged prs · full breakdown at [hanzalahwaheed/oss](https://github.com/hanzalahwaheed/oss)",
+              "",
+              "<sub>last updated \(now | strftime("%Y-%m-%d"))</sub>"
           ' contribs.json > oss.md
 
           awk '
