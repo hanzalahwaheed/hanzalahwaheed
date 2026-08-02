@@ -6,7 +6,7 @@
 
 i build **retrieval systems, data infrastructure, and the products on top of them.**
 
-\> **founding engineer** · **[stockinsights.ai](https://stockinsights.ai)** · using llms to make equity research faster for the people who do it all day<br/>
+\> **founding engineer** · **[stockinsights.ai](https://stockinsights.ai)** · building the ai layer for financial equity research<br/>
 \> **google summer of code 2026** · **[c2si / dataloom](https://github.com/c2siorg/dataloom)** · built the data-profiling engine for an open-source data-wrangling platform<br/>
 \> **writing** · **[hanzalahwaheed.com/blogs](https://hanzalahwaheed.com/blogs)** · postgres internals, retrieval plumbing, react performance, open source<br/>
 
