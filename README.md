@@ -2,49 +2,41 @@
 
 <sub>Banner: One Piece.</sub>
 
-**Hanzalah Waheed** · Founding Engineer at [StockInsights.ai](https://stockinsights.ai) · Dubai, UAE
+**Hanzalah Waheed** · Founding Engineer · Dubai, UAE
 
 [Website](https://hanzalahwaheed.com) · [Writing](https://hanzalahwaheed.com/blogs) · [LinkedIn](https://www.linkedin.com/in/hanzalah-waheed-b16456231/) · [X](https://twitter.com/waheed_hanzalah) · [Email](mailto:hanzalah.w@gmail.com)
 
----
+I build **retrieval systems, data infrastructure, and the products on top of them.**
 
-## Work
-
-Founding Engineer at [StockInsights.ai](https://stockinsights.ai) since August 2024.
-
-- Retrieval pipeline over financial filings: `text-embedding-3` and `pgvector` on AWS RDS.
-- That pipeline now summarises more than 25,000 filings every month.
-- Moved full-text search from MongoDB Atlas to Postgres, with redesigned indexing and relevance scoring.
-- Search got about 120% faster and cut over $5,000 a year of infrastructure cost.
-- Webhook delivery on SQS and SNS: new filings pushed to customer endpoints.
-- That delivery path uses retries and gives consumers at-least-once delivery semantics.
-- I also own the frontend, the multi-session chat system, and Stripe metered billing.
-- The billing work opened the company's first recurring API revenue stream.
-
-## Writing
-
-I write about Postgres internals, retrieval plumbing, React performance, and open source.
+▸ **Founding Engineer** · **[StockInsights.ai](https://stockinsights.ai)** · retrieval over financial filings with `pgvector`, Postgres full-text search, SQS/SNS webhook delivery<br/>
+▸ **Google Summer of Code 2026** · **[C2SI / DataLoom](https://github.com/c2siorg/dataloom)** · built the data-profiling engine for an open-source data-wrangling platform<br/>
+▸ **Writing** · **[hanzalahwaheed.com/blogs](https://hanzalahwaheed.com/blogs)** · Postgres internals, retrieval plumbing, React performance, open source<br/>
 
 <!-- blogs-start -->
 
-- [Why Updating Data in Postgres Is More Expensive Than You Think](https://hanzalahwaheed.com/blogs/postgres-updates-case-study): MVCC, TOAST, GIN indexes, and when rebuilding beats updating in place.
-- [Doomscrolling GitHub, Contributing to OSS and GSoC](https://hanzalahwaheed.com/blogs/oss-and-more): contributing to open source in the age of coding agents.
+Latest posts: [Why Updating Data in Postgres Is More Expensive Than You Think](https://hanzalahwaheed.com/blogs/postgres-updates-case-study) · [Doomscrolling GitHub, Contributing to OSS and GSoC](https://hanzalahwaheed.com/blogs/oss-and-more)
 
 <!-- blogs-end -->
 
-More at [hanzalahwaheed.com/blogs](https://hanzalahwaheed.com/blogs).
+Currently building **StockInsights** and **DataLoom**.
 
-## Open source
+<p>
+  <strong>Tech Stack</strong>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-161B22?style=flat&logo=redis&logoColor=FF4438" alt="Redis" />
+  <img src="https://img.shields.io/badge/AWS-161B22?style=flat&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-161B22?style=flat&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Claude-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="Claude" />
+</p>
 
-Google Summer of Code 2026 contributor at [C2SI](https://github.com/c2siorg), on [DataLoom](https://github.com/c2siorg/dataloom).
-
-- Built the data-profiling engine for DataLoom, an open-source data-wrangling platform.
-- Type-aware column statistics, automatic distribution detection, and Pearson correlation heatmaps.
-- Widened ingestion and export from CSV only to five formats.
-- Added JWT cookie authentication with per-user project ownership at the API layer.
-- Wrote over 100 pytest cases across auth, security, and transformations.
-- Outside GSoC I contribute to DocsGPT, preCICE, CircuitVerse, and Zulip.
-- The table below refreshes itself daily from the GitHub contributions API.
+<sub>Open source activity, last 12 months. Updates daily.</sub>
 
 <!-- oss-start -->
 
