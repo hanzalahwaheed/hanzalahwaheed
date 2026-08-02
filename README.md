@@ -38,21 +38,90 @@ currently building **stockinsights** and **dataloom**.
 
 <!-- oss-start -->
 
-| Repository | ⭐ | Merged PRs | Reviews | Issues |
-| --- | ---: | ---: | ---: | ---: |
-| [c2siorg/dataloom](https://github.com/c2siorg/dataloom) | 25 | 27 | 0 | 33 |
-| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 18188 | 5 | 0 | 9 |
-| [precice/precice.github.io](https://github.com/precice/precice.github.io) | 29 | 2 | 3 | 4 |
-| [c2siorg/c2siorg.github.io](https://github.com/c2siorg/c2siorg.github.io) | 3 | 1 | 0 | 2 |
-| [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) | 1244 | 1 | 0 | 1 |
-| [outerbase/studio-desktop](https://github.com/outerbase/studio-desktop) | 184 | 0 | 0 | 2 |
-| [CircuitVerse/CircuitVerseDocs](https://github.com/CircuitVerse/CircuitVerseDocs) | 98 | 1 | 0 | 1 |
-| [zulip/zulip](https://github.com/zulip/zulip) | 25591 | 1 | 0 | 0 |
-| [outerbase/studio](https://github.com/outerbase/studio) | 5862 | 0 | 0 | 1 |
-| [CircuitVerse/cv-frontend-vue](https://github.com/CircuitVerse/cv-frontend-vue) | 61 | 0 | 0 | 1 |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="52%" align="left">repository</th>
+      <th width="12%" align="right">stars</th>
+      <th width="12%" align="right">merged prs</th>
+      <th width="12%" align="right">reviews</th>
+      <th width="12%" align="right">issues</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left"><a href="https://github.com/c2siorg/dataloom">c2siorg/dataloom</a></td>
+      <td align="right">25</td>
+      <td align="right">27</td>
+      <td align="right">0</td>
+      <td align="right">33</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/arc53/DocsGPT">arc53/DocsGPT</a></td>
+      <td align="right">18188</td>
+      <td align="right">5</td>
+      <td align="right">0</td>
+      <td align="right">9</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/precice/precice.github.io">precice/precice.github.io</a></td>
+      <td align="right">29</td>
+      <td align="right">2</td>
+      <td align="right">3</td>
+      <td align="right">4</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/c2siorg/c2siorg.github.io">c2siorg/c2siorg.github.io</a></td>
+      <td align="right">3</td>
+      <td align="right">1</td>
+      <td align="right">0</td>
+      <td align="right">2</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/CircuitVerse/CircuitVerse">CircuitVerse/CircuitVerse</a></td>
+      <td align="right">1244</td>
+      <td align="right">1</td>
+      <td align="right">0</td>
+      <td align="right">1</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/outerbase/studio-desktop">outerbase/studio-desktop</a></td>
+      <td align="right">184</td>
+      <td align="right">0</td>
+      <td align="right">0</td>
+      <td align="right">2</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/CircuitVerse/CircuitVerseDocs">CircuitVerse/CircuitVerseDocs</a></td>
+      <td align="right">98</td>
+      <td align="right">1</td>
+      <td align="right">0</td>
+      <td align="right">1</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/zulip/zulip">zulip/zulip</a></td>
+      <td align="right">25591</td>
+      <td align="right">1</td>
+      <td align="right">0</td>
+      <td align="right">0</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/outerbase/studio">outerbase/studio</a></td>
+      <td align="right">5862</td>
+      <td align="right">0</td>
+      <td align="right">0</td>
+      <td align="right">1</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/CircuitVerse/cv-frontend-vue">CircuitVerse/cv-frontend-vue</a></td>
+      <td align="right">61</td>
+      <td align="right">0</td>
+      <td align="right">0</td>
+      <td align="right">1</td>
+    </tr>
+  </tbody>
+</table>
 
-**Totals (all public OSS):** 38 merged PRs · 3 reviews · 63 issues
-
-_Last updated: 2026-08-02_
+<sub>totals (all public oss): 38 merged prs · 3 reviews · 63 issues · last updated 2026-08-02</sub>
 
 <!-- oss-end -->
