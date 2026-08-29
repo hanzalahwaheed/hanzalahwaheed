@@ -38,6 +38,6 @@ latest posts: [why updating data in postgres is more expensive than you think](h
 
 flagship: [c2siorg/dataloom](https://github.com/c2siorg/dataloom) · 35 merged prs · full breakdown at [opensource-contributions](https://github.com/hanzalahwaheed/OpenSource-Contributions)
 
-<sub>last updated 2026-08-28</sub>
+<sub>last updated 2026-08-29</sub>
 
 <!-- oss-end -->
