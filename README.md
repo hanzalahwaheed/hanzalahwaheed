@@ -34,10 +34,10 @@ latest posts: [why updating data in postgres is more expensive than you think](h
 
 <!-- oss-start -->
 
-**48 merged prs** across **8 repos** in the last 12 months.
+**47 merged prs** across **8 repos** in the last 12 months.
 
 flagship: [c2siorg/dataloom](https://github.com/c2siorg/dataloom) · 37 merged prs · full breakdown at [opensource-contributions](https://github.com/hanzalahwaheed/OpenSource-Contributions)
 
-<sub>last updated 2026-10-03</sub>
+<sub>last updated 2026-10-04</sub>
 
 <!-- oss-end -->
